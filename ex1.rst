@@ -17,7 +17,7 @@ You are developing some Python software and you would like to begin automated,
 continuous integration testing. You know that in production you may do
 something completely different to meet your continuous integration needs,
 but for now you just want something quick and dirty to get started.
-``java`` has been installed already via your operating
+``java`` has been installed already, by your operating
 system's package manager. You type::
 
     $ virtualenv .
@@ -50,6 +50,6 @@ And you open with your browser:
 
 And you see:
 
-.. image:: jenkins.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/jenkins.png
 
 Happy times! Stay tuned for more.

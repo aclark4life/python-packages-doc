@@ -11,8 +11,8 @@ current usefulness of doing that is dubious. Until then, and until we have time
 to explain more about the complete set of ``buildout`` configuration files
 currently available, please consider the following example.
 
-Continous integration with Jenkins
-----------------------------------
+Continous integration with ``Jenkins``
+--------------------------------------
 
 You are developing some Python software and you would like to begin automated,
 continuous integration testing. You know that in production you may do
@@ -25,7 +25,7 @@ system's package manager. You type::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Then you edit the contents of buildout.cfg to contain only::
+Then you edit the contents of buildout.cfg to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/jenkins/latest

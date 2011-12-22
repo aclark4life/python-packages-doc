@@ -5,8 +5,8 @@ Example #2
 
 And now for a familiar topic, Apache and mod_wsgi.
 
-Apache with "hello world" WSGI app
-----------------------------------
+``Apache`` with "hello world" WSGI app
+--------------------------------------
 
 You want to understand how to set up your WSGI application under mod_wsgi. You decide
 to run the simplest possible application locally in order to see how it works::
@@ -15,7 +15,7 @@ to run the simplest possible application locally in order to see how it works::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Then you edit the contents of buildout.cfg to contain only::
+Then you edit the contents of buildout.cfg to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/apache/latest

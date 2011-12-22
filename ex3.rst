@@ -32,7 +32,7 @@ out::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Then you edit the contents of buildout.cfg to contain only::
+Then you edit the contents of buildout.cfg to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/bluebream/latest

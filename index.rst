@@ -17,6 +17,7 @@ Contents:
    background
    ex1
    ex2
+   ex3
 
 Indices and tables
 ==================

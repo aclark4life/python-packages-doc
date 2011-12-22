@@ -25,12 +25,12 @@ system's package manager. You type::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Then you edit the contents of buildout.cfg to include::
+Then you edit the contents of buildout.cfg to contain only::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/jenkins/latest
 
-Then you run::
+Then run::
 
     $ bin/buildout
 
@@ -38,17 +38,17 @@ Followed by::
 
     $ bin/supervisord -e debug -n
 
-At which point you see::
+At which point you should see::
 
     2011-12-21 18:58:21,021 DEBG 'jenkins' stderr output:
     Dec 21, 2011 6:58:21 PM hudson.WebAppMain$2 run
     INFO: Jenkins is fully up and running
 
-So you open the following URL with your web browser:
+Open the following URL with your web browser:
 
  - http://127.0.0.1:8080
 
-And you see:
+And you should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/jenkins.png
 

@@ -15,7 +15,9 @@ statistics about Python packages, like number of downloads. Soon after that, a f
 each package's "info" page. And in addition to the Python Package
 Index, we also query (and cache) the following sites for package information:
 
-  - http://opencomparison.org sites (i.e. Django, Plone, Pyramid)
-  - http://readthedocs.org projects (\\o/)
-  - http://packages.python.org projects
+  - http://django.opencomparison.org
+  - http://plone.opencomparison.org
+  - http://pyramid.opencomparison.org
+  - http://readthedocs.org
+  - http://packages.python.org
 

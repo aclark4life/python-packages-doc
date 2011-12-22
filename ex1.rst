@@ -52,4 +52,4 @@ And you should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/jenkins.png
 
-Happy times! Stay tuned for more.
+Happy times!

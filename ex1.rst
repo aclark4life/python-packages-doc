@@ -1,6 +1,4 @@
-.. Note:: This section applies to a "sub-feature" of
-    pythonpackages.com: hosted buildout configuration files at
-    http://build.pythonpackages.com.
+.. include:: section-note.rst
 
 Example #1
 ==========

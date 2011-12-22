@@ -12,8 +12,8 @@ First of all, let us end the debate **once and for all**: what we have available
 in the Python world is **tools**. Lots and lots of tools. What we are missing is
 **clarity**. Rather than force people to use a particular tool without explaining why, let
 us *better* explain what tools are available, and let folks decide for themselves
-which ones they would like to use (along with the understanding of why they
-would like to use it!)
+which ones they would like to use (along with understanding why they
+would like to use them!)
 
 Sounds great! But how?
 ----------------------

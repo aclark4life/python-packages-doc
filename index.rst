@@ -16,6 +16,7 @@ Contents:
    build
    background
    ex1
+   ex2
 
 Indices and tables
 ==================

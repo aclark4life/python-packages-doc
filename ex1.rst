@@ -43,10 +43,9 @@ At which point you see::
     Dec 21, 2011 6:58:21 PM hudson.WebAppMain$2 run
     INFO: Jenkins is fully up and running
 
-And you open with your browser:
+So you open the following URL with your web browser:
 
  - http://localhost:8080
-
 
 And you see:
 

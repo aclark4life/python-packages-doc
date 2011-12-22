@@ -45,7 +45,7 @@ At which point you see::
 
 So you open the following URL with your web browser:
 
- - http://localhost:8080
+ - http://127.0.0.1:8080
 
 And you see:
 

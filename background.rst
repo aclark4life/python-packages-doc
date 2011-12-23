@@ -30,7 +30,7 @@ packages that are not distributed with Python itself::
 
 If you are able to do this, it is a happy day! But sometimes the
 software or version of software we want is not distributed via this method.
-By installing additional software, you can gain access to over 18,000
+By installing additional "installers", you can easily gain access to over 18,000
 packages from the Python Package Index!
 
 

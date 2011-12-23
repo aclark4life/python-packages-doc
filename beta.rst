@@ -1,6 +1,6 @@
 
-Beta site
-=========
+Beta
+====
 
 We are currently developing a "secret" feature we think Python developers will enjoy.
 

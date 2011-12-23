@@ -8,7 +8,7 @@ audience: Python developers.
 What is it?
 -----------
 
-``pythonpackages.com`` began in mid-November 2011 as a web front end for
+``pythonpackages.com`` began on October 29th, 2011 as a web front end for
 various command line utilities that query the Python Package Index to obtain various
 statistics about Python packages, like number of downloads. Soon after that, a fun
 (but crude) package ratings system was added; as well as the ability to leave

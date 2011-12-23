@@ -84,7 +84,7 @@ provide whatever functionality it likes.
 ``Pyg`` installs packages four
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The newest installer to join the fray is ``Pyg``. According to its
+The newest installer to join the group is ``Pyg``. According to its
 documentation::
 
     Pyg is a Python Package Manager that is meant to be an alternative to

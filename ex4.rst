@@ -7,7 +7,8 @@ Many developers install ``Django`` with::
 
     $ pip install Django
 
-But after it's installed, additional setup is required (i.e. editing settings.py etc.) If you
+But after it's installed, additional setup is required (i.e. editing
+settings.py, etc.) If you
 are a beginner, you may want more done for you automatically (a la "installers").
 
 ``Django`` installation

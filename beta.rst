@@ -2,7 +2,11 @@
 Beta site
 =========
 
-Additionally, we are currently developing a "secret" feature we think you will enjoy.
+We are currently developing a "secret" feature we think Python developers will enjoy.
+
+Sign up
+-------
+
 If you have not done so already, please take a minute to sign up
 over here:
 

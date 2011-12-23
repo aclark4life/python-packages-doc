@@ -19,8 +19,8 @@ which ones they would like to use.
 Sounds great! But how?
 ----------------------
 
-``pythonpackages.com`` provides resources to explain 
-how various build tools work. This project is in its infancy, but already contains something of
+``pythonpackages.com`` provides resources to explain how various tools work.
+The project is in its infancy, but already contains something of
 significant value:
 
 - Shared, extendable configuration files for building Python (and other)

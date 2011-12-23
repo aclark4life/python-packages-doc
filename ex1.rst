@@ -44,7 +44,7 @@ At which point you should see::
     Dec 21, 2011 6:58:21 PM hudson.WebAppMain$2 run
     INFO: Jenkins is fully up and running
 
-Open the following URL with your web browser:
+Open the following URL in your web browser:
 
  - http://127.0.0.1:8080
 

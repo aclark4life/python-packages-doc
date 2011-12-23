@@ -35,7 +35,7 @@ At which point you should see::
     OpenSSL/0.9.8r DAV/2 mod_wsgi/3.3 Python/2.7.2 configured -- resuming normal
     operations
 
-Open the following URL with your web browser:
+Open the following URL in your web browser:
 
  - http://127.0.0.1:8080
 

@@ -72,7 +72,7 @@ At which point you should see::
     2011-12-22T15:27:32 INFO ZODB.blob (31588) Blob temporary directory
     'var/blobstorage/tmp' does not exist. Created new directory.
 
-Open the following URL with your web browser:
+Open the following URL in your web browser:
 
  - http://127.0.0.1:8080
 

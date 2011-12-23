@@ -3,7 +3,7 @@
 Example #4
 ==========
 
-Many developers install Django with::
+Many developers install ``Django`` with::
 
     $ pip install Django
 
@@ -13,7 +13,7 @@ are a beginner, you may want more done for you automatically (a la "installers")
 ``Django`` installation
 -----------------------
 
-You want to take Django for a spin, but you don't know much about Django or
+You want to take ``Django`` for a spin, but you don't know much about it or
 Python::
 
     $ virtualenv .

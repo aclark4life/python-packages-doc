@@ -14,7 +14,7 @@ are a beginner, you may want more done for you automatically (a la "installers")
 -----------------------
 
 You want to take Django for a spin, but you don't know much about Django or
-Python.
+Python::
 
     $ virtualenv .
     $ bin/pip install zc.buildout

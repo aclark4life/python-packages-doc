@@ -13,8 +13,8 @@ various command line utilities that query the Python Package Index to obtain var
 statistics about Python packages, like number of downloads. Soon after that, a fun
 (but crude) package ratings system was added; as well as the ability to comment on
 each package's "info" page. In addition to querying the Python Package
-Index, it also queries the following websites for package information (and
-caches the results):
+Index, we also query the following websites for package information (and
+cache the results):
 
   - http://django.opencomparison.org
   - http://plone.opencomparison.org

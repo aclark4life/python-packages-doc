@@ -6,7 +6,7 @@ In this documentation we introduce and explain ``pythonpackages.com`` to its tar
 audience: Python developers.
 
 What is it?
-===========
+-----------
 
 ``pythonpackages.com`` began in mid-November 2011 as a web front end for
 various command line utilities that query the Python Package Index to obtain various

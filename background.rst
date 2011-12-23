@@ -81,6 +81,18 @@ another ``setuptools`` feature: *entry points*. We will not explain those here,
 but simply put: any Python package may declare itself a buildout "recipe", and
 provide whatever functionality it likes.
 
+``Pyg`` installs packages four
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The newest installer to join the fray is ``Pyg``. According to its
+documentation::
+
+    Pyg is a Python Package Manager that is meant to be an alternative to
+    easy_install and Pip. It can install, remove, bundle Python packages and much
+    more.
+
+See: http://pythonpackages.com/info/pyg for more information.
+
 Prophalactycs
 -------------
 

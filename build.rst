@@ -13,7 +13,7 @@ First of all, let us end the debate **once and for all** about which tool is
 best. We have lots of tools in the Python world. What we are missing is **clarity**. 
 
 Rather than force people to use a particular tool without explaining why, let
-us *better* explain what tools are available, and let folks decide for themselves
+us *better* explain what tools are available and let folks decide for themselves
 which ones they would like to use.
 
 Sounds great! But how?

@@ -21,7 +21,7 @@ but for now you just want something quick and dirty to get started.
 ``java`` has been installed already, by your operating
 system's package manager. You type::
 
-    $ virtualenv .
+    $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
     $ bin/buildout init
 

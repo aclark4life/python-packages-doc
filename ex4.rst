@@ -17,7 +17,7 @@ are a beginner, you may want more done for you automatically (a la "installers")
 You want to take ``Django`` for a spin, but you don't know much about it or
 Python::
 
-    $ virtualenv .
+    $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
     $ bin/buildout init
 

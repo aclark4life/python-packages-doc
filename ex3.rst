@@ -28,7 +28,7 @@ You have heard that the Zope 3 application server, the successor to the world fa
 ``Zope2`` application server is now called ``Bluebream`` and you want to try it
 out::
 
-    $ virtualenv .
+    $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
     $ bin/buildout init
 

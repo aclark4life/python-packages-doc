@@ -14,8 +14,7 @@ best. We have lots of tools in the Python world. What we are missing is **clarit
 
 Rather than force people to use a particular tool without explaining why, let
 us *better* explain what tools are available, and let folks decide for themselves
-which ones they would like to use (along with the ability to *better*
-understand why they would like to use them!)
+which ones they would like to use.
 
 Sounds great! But how?
 ----------------------

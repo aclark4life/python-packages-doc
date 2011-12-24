@@ -39,6 +39,6 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/django.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/plone.png
 
 Happy times!

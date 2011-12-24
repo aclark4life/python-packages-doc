@@ -14,3 +14,4 @@ over here:
 
 You will hear from us in Q1 2012.
 
+.. include:: disqus.html

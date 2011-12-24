@@ -22,3 +22,4 @@ cache the results):
   - http://readthedocs.org
   - http://packages.python.org
 
+.. include:: disqus.html

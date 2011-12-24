@@ -27,3 +27,5 @@ already offers something of significant value:
   software.
 
 Please continue reading to learn more.
+
+.. include:: disqus.html

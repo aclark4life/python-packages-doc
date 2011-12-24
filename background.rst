@@ -140,3 +140,5 @@ a ``virtualenv`` "in between" a buildout and its "parent" Python installation::
     $ bin/buildout init
 
 This brings us to our first example.
+
+.. include:: disqus.html

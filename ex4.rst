@@ -61,11 +61,11 @@ After which you can run::
 
     $ bin/django runserver
 
-Open the following URL in your web browser:
+And open the following URL in your web browser:
 
  - http://127.0.0.1:8000/admin/
 
-And you should see:
+You should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/django.png
 

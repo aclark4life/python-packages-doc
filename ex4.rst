@@ -4,7 +4,7 @@ Example #4
 ==========
 
 In this example, we configure a "hello world" application for your
-Djangoing pleasure.
+Django-ing pleasure.
 
 ``Django`` installation
 -----------------------

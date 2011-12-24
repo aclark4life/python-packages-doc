@@ -74,3 +74,5 @@ Everywhere else you should see:
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/django-hello.png
 
 Happy times!
+
+.. include:: disqus.html

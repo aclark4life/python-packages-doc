@@ -81,3 +81,5 @@ And you should see:
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/bluebream.png
 
 Happy times!
+
+.. include:: disqus.html

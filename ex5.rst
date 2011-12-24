@@ -42,3 +42,5 @@ You should see:
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/plone.png
 
 Happy times!
+
+.. include:: disqus.html

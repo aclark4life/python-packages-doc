@@ -3,19 +3,12 @@
 Example #4
 ==========
 
-Many developers install ``Django`` with::
-
-    $ pip install Django
-
-But after it's installed, additional setup is required (i.e. editing
-settings.py, etc.) If you
-are a beginner, you may want more done for you automatically (a la "installers").
+In this example, we configure a "hello world" application for your enjoyment.
 
 ``Django`` installation
 -----------------------
 
-You want to take ``Django`` for a spin, but you don't know much about it or
-Python::
+You want to take ``Django`` for a spin, but you don't know much about it.
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
@@ -74,5 +67,9 @@ Open the following URL in your web browser:
 And you should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/django.png
+
+Everywhere else you should see:
+
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/django-hello.png
 
 Happy times!

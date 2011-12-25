@@ -93,7 +93,7 @@ documentation::
 
 See: http://pythonpackages.com/info/pyg for more information.
 
-Prophalactycs
+Prophylactics
 -------------
 
 Lastly, we will mention this: due to Python internals, only a single version of
@@ -116,7 +116,7 @@ To put it better, from the ``virtualenv`` documentation::
 
 So you will often see ``virtualenv`` mentioned during a discussion of package
 installation. Keep in mind that the use of ``virtualenv`` is primarily a
-prophalactyc measure. If you do not know whether you need it or not, it cannot
+prophylactic measure. If you do not know whether you need it or not, it cannot
 hurt:: 
 
     $ pip install virtualenv

@@ -6,8 +6,8 @@ Example #5
 The award-winning, Python-based Plone CMS.
 
 
-``Plone`` installation
-----------------------
+WSGI-powered ``Plone`` setup
+----------------------------
 
 You want to take a WSGI-powered ``Plone`` for a spin::
 

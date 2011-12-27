@@ -4,12 +4,8 @@ Example #1
 ==========
 
 That was along way to go explain the following: we have some ready made
-configuration files available for you to use with ``buildout``. We are also
-planning to host useful sets of ``pip`` requirements.txt files, though ``pip``
-currently does not support network transfer of such files, therefore the
-current usefulness of doing that is dubious. Until then, and until we have time
-to explain more about the complete set of ``buildout`` configuration files
-currently available, please consider the following example.
+configuration files available for you to use with ``buildout`` (and ``pip``,
+coming soon).
 
 Continous integration with ``Jenkins``
 --------------------------------------

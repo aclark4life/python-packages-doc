@@ -23,7 +23,6 @@ querying these sites:
 
   - http://packages.python.org
   - http://readthedocs.org
-
   - http://django.opencomparison.org
   - http://plone.opencomparison.org
   - http://pyramid.opencomparison.org

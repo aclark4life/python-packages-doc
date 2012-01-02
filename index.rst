@@ -15,7 +15,7 @@ Contents:
 
    README
    beta
-   featuring
+   featured
    build
    background
    ex1

@@ -13,9 +13,9 @@ Contents:
 
    README
    beta
+   featuring
    build
    background
-   featuring
    ex1
    ex2
    ex3

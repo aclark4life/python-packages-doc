@@ -15,11 +15,13 @@ Contents:
    beta
    build
    background
+   featuring
    ex1
    ex2
    ex3
    ex4
    ex5
+
 
 Indices and tables
 ==================

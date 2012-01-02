@@ -15,7 +15,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   README
+   intro
    beta
    featured
    build

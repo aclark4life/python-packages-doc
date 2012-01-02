@@ -2,7 +2,7 @@
 Beta
 ====
 
-We are currently developing a "secret" feature we think Python developers will enjoy.
+We are currently developing a "secret" feature we think Python developers will like.
 
 Sign up
 -------

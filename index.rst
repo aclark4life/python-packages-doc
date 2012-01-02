@@ -17,7 +17,7 @@ Contents:
 
    intro
    beta
-   featured
+   features
    build
    background
    ex1

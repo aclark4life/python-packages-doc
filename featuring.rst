@@ -5,4 +5,7 @@
 Package featuring system
 ========================
 
-Coming soon
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/featured01.png
+
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/featured02.png
+

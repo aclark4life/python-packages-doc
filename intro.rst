@@ -8,6 +8,15 @@ audience: Python developers.
 What is it?
 -----------
 
+In short, ``pythonpackages.com`` is a website that features Python packages.
+For more information, please read the `history section`_. 
+
+
+.. _`history section`:
+
+History
+-------
+
 ``pythonpackages.com`` began on October 29th, 2011 as a web front end for
 various command line utilities that query the `Python Package Index`_ to obtain various
 statistics about Python packages, like number of downloads. Utilities include:

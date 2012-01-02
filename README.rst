@@ -16,7 +16,7 @@ statistics about Python packages, like number of downloads. Utilities include:
   - http://pythonpackages.com/info/yolk
   - http://pythonpackages.com/info/zopyx.trashfinder
 
-After that, a `package featuring system`_ was added; as well as the ability to leave
+After that, a package featuring system was added; as well as the ability to leave
 comments on each package's "info" page (via `disqus.com`_). In addition to querying the
 `Python Package Index`_, we also query the following websites for documentation:
 
@@ -30,4 +30,3 @@ comments on each package's "info" page (via `disqus.com`_). In addition to query
 
 .. _`Python Package Index`: http://pypi.python.org
 .. _`disqus.com`: http://disqus.com
-.. _`package featuring system`: :doc:ex3

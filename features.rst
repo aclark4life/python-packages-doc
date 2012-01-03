@@ -39,16 +39,15 @@ Display number of times featured
 
 In addition to displaying the number of times a package has been downloaded from
 the Python Package Index, ``pythonpackages.com`` displays the number of times a
-package has been featured on ``pythonpackages.com``:
+package has been featured on ``pythonpackages.com``. Just click on a package's 
+"featured" link in the "Recent entries" section, or one of the packages listed
+under the "Most downloaded" column to the left.
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features04.png
 
 Exciting too! ;-)
 
-Just click on a package's "featured" link in the "Recent entries" section, or one of the packages
-listed under the "Most downloaded" column to the left.
-
-This concludes an overview of three of ``pythonpackages.com``'s core
+This concludes a description of three of ``pythonpackages.com``'s core
 features:
 
   - Displaying the number of times a package has been downloaded from the

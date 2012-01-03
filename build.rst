@@ -19,7 +19,7 @@ Sounds great! But how?
 Hosted configuration files
 --------------------------
 
-In addition to a :ref:`package featuring system`_, ``pythonpackages.com``
+In addition to a :ref:`package featuring system`, ``pythonpackages.com``
 provides a set of shared, extendable configuration files for building Python and other
 software. Please continue reading to learn more.
 

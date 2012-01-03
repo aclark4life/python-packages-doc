@@ -34,6 +34,8 @@ in a list of recent entries, effectively "featuring" it.
 You can also feature packages via the "Feature it" or "Feature package"
 buttons.
 
+Exciting too!
+
 Display number of times featured
 --------------------------------
 
@@ -45,10 +47,9 @@ under the "Most downloaded" column to the left.
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features04.png
 
-Exciting too! ;-)
+Exciting three! ;-)
 
-This concludes a description of three of ``pythonpackages.com``'s core
-features:
+Thus, we have described three core features of ``pythonpackages.com``:
 
   - Displaying the number of times a package has been downloaded from the
     Python package index.

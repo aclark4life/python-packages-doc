@@ -11,7 +11,6 @@ What is it?
 In short, ``pythonpackages.com`` is a website that features Python packages.
 For more information, please read the `history section`_. 
 
-
 .. _`history section`:
 
 History

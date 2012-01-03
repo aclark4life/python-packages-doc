@@ -19,6 +19,8 @@ the Python Package Index:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features02.png
 
+Exciting!
+
 .. _`package featuring system`:
 
 Package featuring system
@@ -32,7 +34,10 @@ in a list of recent entries, effectively "featuring" it.
 You can also feature packages via the "Feature it" or "Feature package"
 buttons.
 
-Number of features
-------------------
+Display number of times featured
+--------------------------------
 
-Coming soon
+In addition to displaying number of times a package has been downloaded from
+PyPI, ``pythonpackages.com`` displays the number of times a package has been
+featured on ``pythonpackages.com``.
+

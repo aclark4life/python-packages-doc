@@ -37,7 +37,9 @@ buttons.
 Display number of times featured
 --------------------------------
 
-In addition to displaying number of times a package has been downloaded from
-PyPI, ``pythonpackages.com`` displays the number of times a package has been
-featured on ``pythonpackages.com``.
+In addition to displaying the number of times a package has been downloaded from
+the Python Package Index, ``pythonpackages.com`` displays the number of times a
+package has been featured on ``pythonpackages.com``:
+
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features04.png
 

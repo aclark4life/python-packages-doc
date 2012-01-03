@@ -7,8 +7,8 @@ Features
 
 This section provides an overview of ``pythonpackages.com``'s features.
 
-Downloads
----------
+Number of downloads
+-------------------
 
 In its simplest form, ``pythonpackages.com`` allows you to enter a Python
 package name: 
@@ -23,9 +23,15 @@ the Python Package Index:
 Featured packages
 -----------------
 
-The process of entering a package name causes it to be displayed in
-a list of recent entries, effectively "featuring" it.
+The process of entering a package name on ``pythonpackages.com`` causes it to be displayed
+in a list of recent entries, effectively "featuring" it.
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features03.png
 
-You can also click on a "Feature it" or "feature package" button to feature packages.
+You can also feature packages via the "Feature it" or "Feature package"
+buttons.
+
+Number of features
+------------------
+
+Coming soon

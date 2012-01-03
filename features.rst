@@ -19,7 +19,7 @@ the Python Package Index:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features02.png
 
-Exciting!
+Exciting! ;-)
 
 .. _`package featuring system`:
 
@@ -43,7 +43,7 @@ package has been featured on ``pythonpackages.com``:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features04.png
 
-Exciting too!
+Exciting too! ;-)
 
 Just click on a package's "featured" link in the "Recent entries" section, or one of the packages
 listed under the "Most downloaded" column to the left.

@@ -1,14 +1,13 @@
 .. Note:: This is a work in progress
 
-.. _`package featuring system`:
 
 Features
 ========
 
 This section provides an overview of ``pythonpackages.com``'s features.
 
-Number of downloads
--------------------
+Display number of downloads
+---------------------------
 
 In its simplest form, ``pythonpackages.com`` allows you to enter a Python
 package name: 
@@ -20,8 +19,10 @@ the Python Package Index:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features02.png
 
-Featured packages
------------------
+.. _`package featuring system`:
+
+Package featuring system
+------------------------
 
 The process of entering a package name on ``pythonpackages.com`` causes it to be displayed
 in a list of recent entries, effectively "featuring" it.

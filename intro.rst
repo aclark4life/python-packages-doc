@@ -18,7 +18,7 @@ History
 
 ``pythonpackages.com`` began on October 29th, 2011 as a web front end for
 various command line utilities that query the `Python Package Index`_ to obtain various
-statistics about Python packages, like number of downloads. Utilities include:
+statistics about Python packages, like number of downloads. Utilities used include:
 
   - http://pythonpackages.com/info/vanity
   - http://pythonpackages.com/info/yolk

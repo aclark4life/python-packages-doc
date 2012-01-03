@@ -51,7 +51,7 @@ Exciting three! ;-)
 
 Thus, we have described three core features of ``pythonpackages.com``:
 
-  - Displaying the number of times a package has been downloaded from the
+  - Displays the number of times a package has been downloaded from the
     Python package index.
-  - The ability to "feature" packages
-  - Displaying the number of times a package has been featured
+  - Provides a package "featuring" system.
+  - Display the number of times a package has been featured.

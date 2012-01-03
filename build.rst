@@ -1,4 +1,4 @@
-.. include:: section-note.rst
+.. include:: note-about-build-section.rst
 
 Building things
 ===============

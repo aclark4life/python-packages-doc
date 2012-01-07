@@ -67,4 +67,4 @@ As such, we have implemented a ``Python 3 Wall of Praise``. It looks like this:
     :width: 508.5px
 
 As you can see, if you enter your favorite package and its metadata indicates
-it supports Python 3, then the entry will be highlighted.
+Python 3 support, then the entry will be highlighted.

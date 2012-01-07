@@ -63,8 +63,8 @@ Python 3 wall of praise
 As such, we have implemented a ``Python 3 Wall of Praise``. It looks like this:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/python3.png
-    :height: 508.5px
-    :width: 337px    
+    :height: 337px    
+    :width: 508.5px
 
 As you can see, if you enter your favorite package and its metadata indicates
 it supports Python 3, then the entry will be highlighted.

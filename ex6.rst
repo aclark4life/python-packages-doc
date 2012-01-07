@@ -5,8 +5,8 @@ Example #6
 
 The award-winning, PHP-based blogging software, Wordpress.
 
-Wordpress installation
-----------------------
+``Wordpress`` installation
+--------------------------
 
 You want to download and install Wordpress and keep it up to date with only a
 few commands:: 

@@ -25,6 +25,7 @@ Contents:
    ex3
    ex4
    ex5
+   ex6
 
 
 Indices and tables

@@ -2,13 +2,13 @@
 Introduction
 ============
 
-In this documentation we introduce and explain ``pythonpackages.com`` to its target
+In this documentation we introduce and explain `pythonpackages.com`_ to its target
 audience: Python developers.
 
 What is it?
 -----------
 
-In short, ``pythonpackages.com`` is a website that features Python packages.
+In short, `pythonpackages.com`_ is a website that features Python packages.
 For more information, please read the `history section`_. 
 
 .. _`history section`:
@@ -16,7 +16,7 @@ For more information, please read the `history section`_.
 History
 -------
 
-``pythonpackages.com`` began on October 29th, 2011 as a web front end for
+`pythonpackages.com`_ began on October 29th, 2011 as a web front end for
 various command line utilities that query the `Python Package Index`_ to obtain various
 statistics about Python packages, like number of downloads. Utilities used include:
 
@@ -40,3 +40,4 @@ querying these sites:
 .. _`Python Package Index`: http://pypi.python.org
 .. _`disqus.com`: http://disqus.com
 .. _`comparison grids`: http://opencomparison.org
+.. _`pythonpackages.com`: http://pythonpackages.com

@@ -55,3 +55,15 @@ Thus, we have described three core features of ``pythonpackages.com``:
     Python package index.
   - Provide a package "featuring" system.
   - Display the number of times a package has been featured.
+
+Python 3 wall of praise
+-----------------------
+
+``pythonpackages.com`` wants to do its part to help get folks using Python 3.
+As such, we have implemented our "wall of shame", called the
+``Python 3 Wall of Praise``.
+
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/python3.png
+
+As you can see, if you enter your favorite package and its metadata indicates
+it supports Python 3, then the entry will be highlighted.

@@ -59,7 +59,7 @@ Thus, we have described three core features of ``pythonpackages.com``:
 Python 3 wall of praise
 -----------------------
 
-`pythonpackages.com`_ wants to encourage folks to use Python 3.
+`pythonpackages.com`_ wants to help encourage folks to use Python 3.
 As such, we have implemented a ``Python 3 Wall of Praise``. It looks like this:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/python3.png

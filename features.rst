@@ -60,7 +60,7 @@ Python 3 wall of praise
 -----------------------
 
 `pythonpackages.com`_ wants to help encourage folks to use Python 3.
-As such, we have implemented a ``Python 3 Wall of Praise``. It looks like this:
+As such, we have implemented a ``Python 3 wall of praise``. It looks like this:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/python3.png
 

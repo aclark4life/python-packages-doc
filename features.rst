@@ -4,12 +4,12 @@
 Features
 ========
 
-This section provides an overview of ``pythonpackages.com``'s features.
+This section provides an overview of `pythonpackages.com`_'s features.
 
 Display number of downloads
 ---------------------------
 
-In its simplest form, ``pythonpackages.com`` allows you to enter a Python
+In its simplest form, `pythonpackages.com`_ allows you to enter a Python
 package name: 
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features01.png
@@ -26,7 +26,7 @@ Exciting! ;-)
 Package featuring system
 ------------------------
 
-The process of entering a package name on ``pythonpackages.com`` causes it to be displayed
+The process of entering a package name on `pythonpackages.com`_ causes it to be displayed
 in a list of recent entries, effectively "featuring" it.
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features03.png
@@ -40,8 +40,8 @@ Display number of times featured
 --------------------------------
 
 In addition to displaying the number of times a package has been downloaded from
-the Python Package Index, ``pythonpackages.com`` displays the number of times a
-package has been featured on ``pythonpackages.com``. Just click on a package's 
+the Python Package Index, `pythonpackages.com`_ displays the number of times a
+package has been featured on `pythonpackages.com`_. Just click on a package's 
 "featured" link in the "Recent entries" section, or one of the packages listed
 under the "Most downloaded" column to the left.
 
@@ -49,7 +49,7 @@ under the "Most downloaded" column to the left.
 
 Exciting three! ;-)
 
-Thus, we have described three core features of ``pythonpackages.com``:
+Thus, we have described three core features of `pythonpackages.com`_:
 
   - Display the number of times a package has been downloaded from the
     Python package index.

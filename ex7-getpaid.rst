@@ -3,13 +3,12 @@
 Example #5
 ==========
 
-The award-winning, Python-based Plone CMS.
+E-commerce platform for Plone: getpaid.
 
+``getpaid`` for Plone
+---------------------
 
-WSGI-powered ``Plone`` setup
-----------------------------
-
-You want to take a WSGI-powered ``Plone`` for a spin::
+You want to try ``getpaid`` for Plone::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
@@ -18,7 +17,7 @@ You want to take a WSGI-powered ``Plone`` for a spin::
 Edit the contents of buildout.cfg to contain *only*::
 
     [buildout]
-    extends = http://build.pythonpackages.com/buildout/plone/latest
+    extends = http://build.pythonpackages.com/buildout/getpaid/latest
 
 Then run::
 
@@ -39,7 +38,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/plone.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/getpaid.png
 
 Happy times!
 

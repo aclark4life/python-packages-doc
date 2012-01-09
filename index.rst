@@ -20,12 +20,13 @@ Contents:
    features
    build
    background
-   ex1
-   ex2
-   ex3
-   ex4
-   ex5
-   ex6
+   ex1-jenkins
+   ex2-apache
+   ex3-bluebream
+   ex4-django
+   ex5-plone
+   ex6-wordpress
+   ex6-getpaid
 
 
 Indices and tables

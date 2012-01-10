@@ -26,7 +26,7 @@ Contents:
    ex4-django
    ex5-plone
    ex6-wordpress
-   ex6-getpaid
+   ex7-getpaid
 
 
 Indices and tables

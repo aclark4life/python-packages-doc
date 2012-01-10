@@ -36,7 +36,7 @@ Open the following URL in your web browser:
 
  - http://127.0.0.1:8080
 
-You should see:
+Click on "Create a new plone site" and should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/getpaid.png
 

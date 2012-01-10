@@ -1,6 +1,6 @@
 .. include:: note-about-build-section.rst
 
-Example #5
+Example #7
 ==========
 
 E-commerce platform for Plone: getpaid.

@@ -94,7 +94,7 @@ And rules.xml to contain::
 
 Open the following URL in your web browser:
 
- - http://localhost:8080
+ - http://localhost:8080/Plone
 
 .. Note:: Note the change from 127.0.0.1 to localhost
 

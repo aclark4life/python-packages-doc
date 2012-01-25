@@ -88,7 +88,7 @@ And rules.xml to contain::
 
         <theme href="index.html" />
 
-        <append css:theme="#content" css:content="html"/>
+        <append css:theme="#content" css:content="#content"/>
 
     </rules>
 
@@ -102,7 +102,11 @@ You should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/diazo3.png
 
-Happy times! This, along with diazo.org, should be all any web-savvy person (who does not know any
+
+Conclusion
+==========
+
+Happy times! This, along with http://diazo.org, should be all any web-savvy person (who does not know any
 Plone) needs to get started theming Plone.
 
 .. include:: disqus.html

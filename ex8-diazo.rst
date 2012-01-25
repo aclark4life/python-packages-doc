@@ -92,11 +92,17 @@ And rules.xml to contain::
 
     </rules>
 
+Open the following URL in your web browser:
+
+ - http://localhost:8080
+
+.. Note:: Note the change from 127.0.0.1 to localhost
+
 You should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/diazo3.png
 
-Happy times! This should be all any web-savvy person (who does not know any
+Happy times! This, along with diazo.org, should be all any web-savvy person (who does not know any
 Plone) needs to get started theming Plone.
 
 .. include:: disqus.html

@@ -14,7 +14,7 @@ You want to try ``getpaid`` for Plone::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Edit the contents of buildout.cfg to contain *only*::
+Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/getpaid/latest

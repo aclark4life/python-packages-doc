@@ -3,7 +3,7 @@
 Example #5
 ==========
 
-The award-winning, Python-based Plone CMS.
+The award-winning, Python-based, Plone CMS.
 
 
 WSGI-powered ``Plone`` setup
@@ -15,7 +15,7 @@ You want to take a WSGI-powered ``Plone`` for a spin::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Edit the contents of buildout.cfg to contain *only*::
+Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/plone/latest

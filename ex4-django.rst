@@ -15,7 +15,7 @@ You want to take ``Django`` for a spin, but you don't know much about it::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Then edit the contents of buildout.cfg to contain *only*::
+Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/django/latest

@@ -21,7 +21,7 @@ system's package manager. You type::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Then edit the contents of buildout.cfg to contain *only*::
+Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/jenkins/latest

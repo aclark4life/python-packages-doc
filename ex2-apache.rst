@@ -15,7 +15,7 @@ to run the simplest possible application locally in order to see how it works::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Then edit the contents of buildout.cfg to contain *only*::
+Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
     extends = http://build.pythonpackages.com/buildout/apache/latest

@@ -86,6 +86,8 @@ And rules.xml to contain::
         xmlns:css="http://namespaces.plone.org/diazo/css"
         xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
+        <theme href="index.html" />
+
         <append css:theme="#content" css:content="html"/>
 
     </rules>

@@ -28,6 +28,7 @@ Contents:
    ex6-wordpress
    ex7-getpaid
    ex8-diazo
+   ex10-plone
 
 
 Indices and tables

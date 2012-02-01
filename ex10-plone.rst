@@ -8,8 +8,8 @@ Python 2.6 and ZServer (instead of Python 2.7, which will be supported soon and
 WSGI, whose support has yet to be determined.)
 
 
-Straight up ``Plone`` setup
----------------------------
+Supported ``Plone`` setup
+-------------------------
 
 You want to take ``Plone`` for a spin::
 

@@ -18,7 +18,7 @@ You want to take a WSGI-powered ``Plone`` for a spin::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://build.pythonpackages.com/buildout/plone/latest
+    extends = http://build.pythonpackages.com/buildout/plone/4.2.x
 
 Then run::
 

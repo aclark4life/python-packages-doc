@@ -3,7 +3,9 @@
 Example #10
 ===========
 
-The award-winning, Python-based, Plone CMS.
+The award-winning, Python-based, Plone CMS. This time with the supported
+Python 2.6 and ZServer (instead of Python 2.7, which will be supported soon and
+WSGI whose support is TBD)
 
 
 Straight up ``Plone`` setup

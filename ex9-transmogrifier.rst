@@ -6,8 +6,8 @@ Example #9
 Easily import content into the award-winning, Python-based, Plone CMS.
 
 
-``Plone`` content import 
-------------------------
+Import content to ``Plone`` with funnelweb
+------------------------------------------
 
 You want to import your non-Plone website content into ``Plone``::
 

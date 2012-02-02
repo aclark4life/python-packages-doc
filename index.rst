@@ -28,6 +28,7 @@ Contents:
    ex6-wordpress
    ex7-getpaid
    ex8-diazo
+   ex9-transmogrifier
    ex10-plone
 
 

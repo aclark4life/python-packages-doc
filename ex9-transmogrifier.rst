@@ -70,7 +70,7 @@ You should see in the terminal::
     INFO:ploneupdate:domains/example set fields=['text', 'ContentType']
     INFO:plonepublish:domains/example performing transition 'publish'
 
-And in Plone::
+And in Plone:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/funnelweb.png
 

@@ -30,6 +30,7 @@ Contents:
    ex8-diazo
    ex9-funnelweb
    ex10-plone
+   thanks
 
 
 Indices and tables

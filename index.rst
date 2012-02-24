@@ -13,23 +13,12 @@ Welcome to `pythonpackages.com`_'s documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   intro
    beta
+   intro
    features
-   build
-   background
-   ex1-jenkins
-   ex2-apache
-   ex3-bluebream
-   ex4-django
-   ex5-plone
-   ex6-wordpress
-   ex7-getpaid
-   ex8-diazo
-   ex9-funnelweb
-   ex10-plone
+   advanced
    thanks
 
 

@@ -26,6 +26,12 @@ Thanks
 
 - David Glick for code from PloneSoftwareCenter. 
 
+- Rob Cakebread for yolk.
+
+- Stefan Holek for jarn.mkrelease.
+
+- The Fellowship of the Packaging, specifically Distutils2 folks.
+
 - Matt Bowen for general encouragement.
 
 - Catalog-sig folks, especially Richard Jones and Martin von Löwis.

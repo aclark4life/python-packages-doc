@@ -2,16 +2,16 @@
 Beta
 ====
 
-We are currently developing a "secret" feature we think Python developers will like.
+When our beta site launches in early 2012,
+we will introduce a new feature we think Python programmers will like.
 
 Sign up
 -------
 
-If you have not done so already, please take a minute to sign up
-over here:
+If you have not done so already, please take a minute to sign up here:
 
     - http://pythonpackages.com/beta/signup
 
-You will hear from us in Q1 2012.
+You will hear from us in Q1 2012!
 
 .. include:: disqus.html

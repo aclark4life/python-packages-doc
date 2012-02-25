@@ -38,7 +38,7 @@ Thanks
 
 - Catalog-sig folks, especially Richard Jones and Martin von Löwis.
 
-- Freenode #pyramid folks, for "free" support! 
+- Freenode #pyramid folks for help with Pyramid.
 
 - To anyone I forgot, or otherwise unintentionally omitted: you know who you are, thank you.
 

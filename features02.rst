@@ -1,5 +1,7 @@
 .. Note:: This is a work in progress
 
+.. _`package featuring system`:
+
 Package featuring system
 ------------------------
 

@@ -8,8 +8,7 @@ package name:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features01.png
 
-Then it tells you the number of times that package has been downloaded from
-the Python Package Index:
+And then it tells you the number of times the package has been downloaded from the Python Package Index:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features02.png
 

@@ -8,6 +8,8 @@ Package featuring system
 The process of entering a package name on `pythonpackages.com`_ causes it to be displayed
 in a list of recent entries, effectively "featuring" it.
 
+E.g.:
+
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features03.png
 
 You can also feature packages via the "Feature it" or "Feature package"

@@ -7,7 +7,6 @@ Welcome to `pythonpackages.com`_'s documentation!
 =================================================
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/screenshot.png
-   :scale: 50
 
 Contents:
 

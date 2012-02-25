@@ -2,42 +2,49 @@
 Introduction
 ============
 
-In this documentation we introduce and explain `pythonpackages.com`_ to its target
-audience: Python developers.
+In this documentation we introduce `pythonpackages.com`_ to its target
+audience: **Python developers**.
 
 What is it?
 -----------
 
-In a nutshell: `pythonpackages.com`_ is a website that showcases Python packages.
-More in the `history section`_. 
+`pythonpackages.com`_ is a website that showcases Python packages. [1]_ For more
+information, please see the `history section`_.
 
 .. _`history section`:
 
 History
 -------
 
-`pythonpackages.com`_ began in October 2011 as a web front end for
-various command line utilities that query the `Python Package Index`_ to obtain various
-statistics about Python packages, like number of downloads. Utilities used include:
+`pythonpackages.com`_ began in October 2011 as a web front end to
+the `vanity`_ command line utility, which queries the `Python Package Index`_
+for package download statistics. Shortly after, support for two more utilities
+was added:
 
-  - http://pythonpackages.com/info/vanity
-  - http://pythonpackages.com/info/yolk
-  - http://pythonpackages.com/info/zopyx.trashfinder
+  - http://pythonpackages.com/package/yolk
+  - http://pythonpackages.com/package/zopyx.trashfinder
 
-After that, a :ref:`package featuring system` was added; as well as the ability to leave
-comments on each package's information page (via `disqus.com`_). In addition to querying the
-`Python Package Index`_, we also provide links to documentation and `comparison grids`_ by
-querying these sites:
+Next, a :ref:`package featuring system` was added to allow users to feature
+their favorite Python packages. Followed by a `package commenting system`_, that
+allows users to comment on their favorite Python packages. Finally in addition to
+querying the `Python Package Index`_, we also provide links to `documentation`_,
+`comparison grids`_ and `downloadable files`_, by querying the following sites:
 
-  - http://packages.python.org
-  - http://readthedocs.org
+  - http://crate.io
   - http://django.opencomparison.org
   - http://plone.opencomparison.org
   - http://pyramid.opencomparison.org
+  - http://packages.python.org
+  - http://readthedocs.org
 
 .. include:: disqus.html
 
 .. _`Python Package Index`: http://pypi.python.org
-.. _`disqus.com`: http://disqus.com
+.. _`package commenting system`: http://disqus.com
 .. _`comparison grids`: http://opencomparison.org
+.. _`documentation`: http://readthedocs.org
+.. _`downloadable files`: http://crate.io
 .. _`pythonpackages.com`: http://pythonpackages.com
+.. _`vanity`: http://pythonpackages.com/package/vanity
+
+.. [1] This is alpha site functionality; the beta site will include more features.

@@ -8,7 +8,7 @@ we will introduce a new feature we think Python programmers will like.
 Sign up
 -------
 
-If you have not done so already, please take a minute to sign up here:
+If you have not done so already, please take a minute to sign up for the beta here:
 
     - http://pythonpackages.com/beta/signup
 

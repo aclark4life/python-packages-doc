@@ -12,8 +12,8 @@ If you have not done so already, please take a minute to sign up for the beta he
 
     - http://pythonpackages.com/beta/signup
 
-You will hear from us in Q1 2012!
-
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/beta01.png
+
+You will hear from us in Q1 2012!
 
 .. include:: disqus.html

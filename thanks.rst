@@ -30,6 +30,8 @@ Thanks
 
 - Stefan Holek for jarn.mkrelease.
 
+- Andreas Jung for zopyx.trashfinder.
+
 - The Fellowship of the Packaging, specifically Distutils2 folks.
 
 - Matt Bowen for general encouragement.

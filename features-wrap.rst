@@ -9,7 +9,7 @@ Thus, we have described the core features of `pythonpackages.com`_:
   Package Index`_).
 - Display the number of times a package has been featured (on
   `pythonpackages.com`_).
-- Allow packages to be featured by site users.
+- Allow packages to be featured by users.
 - Highlight packages that support Python 3.
 
 .. _`pythonpackages.com`: http://pythonpackages.com

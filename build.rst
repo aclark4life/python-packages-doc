@@ -11,10 +11,8 @@ Buildout/easy_install vs. virtualenv/pip
 
 First let us not debate about which tool is best. We have lots of **tools** in
 the Python world. What we are missing is **clarity**. Rather than force people to use
-a particular tool without explaining why, let us *better* explain what tools are available
-and let folks decide for themselves which ones they would like to use.
-
-Sounds great! But how? Let's take a closer look at zc.buildout [1]_.
+a particular tool without explaining why, let us *better* explain what tools
+are available, and let folks decide for themselves which ones they would like to use.
 
 Hosted configuration files
 --------------------------

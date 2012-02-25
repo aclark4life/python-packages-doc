@@ -46,4 +46,4 @@ querying the `Python Package Index`_, we also provide links to `documentation`_,
 .. _`pythonpackages.com`: http://pythonpackages.com
 .. _`vanity`: http://pythonpackages.com/package/vanity
 
-.. [1] This is alpha site functionality; the beta site will include more features.
+.. [1] alpha site functionality; the beta site will include more features.

@@ -13,7 +13,9 @@ over here:
 
     - http://pythonpackages.com/beta/signup
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/beta01.png
+.. figure:: https://github.com/aclark4life/pythonpackages-docs/raw/master/beta01.png
+
+   Trove classifiers selected by beta users
 
 You will hear from us in Q1 2012!
 

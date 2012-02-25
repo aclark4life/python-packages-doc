@@ -13,7 +13,7 @@ Thanks
 
 - Free CSS Themes and Twitter Bootstrap people.
 
-- Sean "nutjob" Kelly for early feedback and encouragement and for featuring "puke" and "Jug" when no one else would.
+- Sean "nutjob" Kelly for early feedback and encouragement, and for featuring "puke" and "Jug" when no one else would.
 
 - Erik Rose and James Socol for early feedback and encouragement.
 

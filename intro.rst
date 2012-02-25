@@ -3,7 +3,7 @@ Introduction
 ============
 
 In this documentation we introduce `pythonpackages.com`_ to its target
-audience: **Python developers**.
+audience: **Python programmers**.
 
 What is it?
 -----------

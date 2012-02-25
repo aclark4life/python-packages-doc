@@ -18,17 +18,16 @@ History
 
 `pythonpackages.com`_ began in October 2011 as a web front end to
 the `vanity`_ command line utility, which queries the `Python Package Index`_
-for package download statistics. Shortly after, support for two more utilities
-was added:
+for package download statistics. Shortly after, two more utilities were added:
 
   - http://pythonpackages.com/package/yolk
   - http://pythonpackages.com/package/zopyx.trashfinder
 
 Next, a :ref:`package featuring system` was added to allow users to feature
 their favorite Python packages. Followed by a `package commenting system`_, that
-allows users to comment on their favorite Python packages. Finally in addition to
+allows users to comment on their favorite packages. Finally in addition to
 querying the `Python Package Index`_, we also provide links to `documentation`_,
-`comparison grids`_ and `downloadable files`_, by querying the following sites:
+`comparison grids`_ and `downloadable files`_ by querying the following sites:
 
   - http://crate.io
   - http://django.opencomparison.org

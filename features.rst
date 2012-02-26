@@ -14,6 +14,7 @@ This section provides an overview of `pythonpackages.com`_'s features.
    features03
    features02
    features04
+   features05
    features-wrap
 
 .. _`pythonpackages.com`: http://pythonpackages.com

@@ -20,6 +20,8 @@ Thanks
 - Danny Greenfeld and Audrey Roy for early feedback, encouragement and the
   opencomparison.org sites.
 
+- DISQUS folks.
+
 - Donald Stufft for crate.io.
 
 - Joshua Ginsberg for redis help.

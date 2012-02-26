@@ -9,6 +9,6 @@ Therefore we have implemented a ``Python 3 wall of praise``. It looks like this:
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features04.png
 
 Enter your favorite package, and if its metadata indicates
-Python 3 support, the featured item will be highlighted.
+Python 3 support, the featured package will be highlighted.
 
 .. _`pythonpackages.com`: http://pythonpackages.com

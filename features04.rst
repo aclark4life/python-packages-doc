@@ -3,12 +3,12 @@
 Python 3 wall of praise
 -----------------------
 
-`pythonpackages.com`_ wants to help encourage Python programmers to use Python 3.
-As such, we have implemented a ``Python 3 wall of praise``. It looks like this:
+`pythonpackages.com`_ wants to encourage Python programmers to use Python 3.
+Therefore we have implemented a ``Python 3 wall of praise``. It looks like this:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features05.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features04.png
 
 Enter your favorite package, and if its metadata indicates
-Python 3 support, the entry will be highlighted.
+Python 3 support, the featured item will be highlighted.
 
 .. _`pythonpackages.com`: http://pythonpackages.com

@@ -10,7 +10,7 @@ in a list of recent entries, effectively "featuring" it.
 
 E.g.:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features02.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features03-system-00.png
 
 You can also feature packages via the "Feature it" or "Feature package"
 buttons.

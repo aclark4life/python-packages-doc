@@ -70,11 +70,11 @@ Now CTRL-C Plone and do the following::
 Now restart Plone. Click on `Site Setup -> Diazo theme -> Advanced settings`. Make your
 fields look like this:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/diazo.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-00.png
 
 Save the form. Select `Basic settings`. Select `Other` and enable your theme:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/diazo2.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-01.png
 
 Return to the site root. You should see… no change! One more step. Edit
 index.html to contain::
@@ -102,7 +102,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/diazo3.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-02.png
 
 
 Conclusion

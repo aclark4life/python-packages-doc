@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Building things
-===============
+Advanced
+========
 
 What do most Python programmers do for a living? They build things: services,
 software, systems, etc. How can we make building things easier for everyone involved?
@@ -15,7 +15,7 @@ a particular tool without explaining why, let us *better* explain what tools
 are available and let folks decide for themselves which ones they would like to use.
 
 In the case of ``zc.buildout`` and ``pip``, we can demonstrate their usage by
-publishing some common configuration files for various popular softwares.
+publishing some common configuration files for various popular software.
 
 Hosted configuration files
 --------------------------

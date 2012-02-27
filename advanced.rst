@@ -24,4 +24,11 @@ So in addition to its core features, ``pythonpackages.com`` provides a set of sh
 extendable configuration files for building Python-based and other software.
 Please continue reading to see examples.
 
+Contents:
+
+.. toctree::
+   :maxdepth: 1
+
+   ex*
+
 .. include:: disqus.html

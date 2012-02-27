@@ -30,6 +30,15 @@ Contents:
    :maxdepth: 1
    :glob:
 
-   ex*
+   ex1-jenkins
+   ex2-apache
+   ex3-bluebream
+   ex4-django
+   ex5-plone
+   ex6-wordpress
+   ex7-getpaid
+   ex8-diazo
+   ex9-funnelweb
+   ex10-plone
 
 .. include:: disqus.html

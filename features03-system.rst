@@ -14,6 +14,8 @@ E.g.:
    :width: 459
    :height: 173.5
 
+You can also feature packages via the ``Feature it`` or ``Feature package`` buttons.
+
 Exciting! 
 
 .. _`pythonpackages.com`: http://pythonpackages.com

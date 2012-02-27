@@ -68,6 +68,8 @@ And open the following URL in your web browser:
 You should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex4-django-00.png
+   :width: 352
+   :height: 238
 
 Everywhere else you should see:
 

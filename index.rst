@@ -31,3 +31,5 @@ Indices and tables
 
 
 .. _`pythonpackages.com`: http://pythonpackages.com
+
+.. include:: disqus.html

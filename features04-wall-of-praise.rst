@@ -12,3 +12,5 @@ Enter your favorite package, and if its metadata indicates
 Python 3 support, the featured package will be highlighted.
 
 .. _`pythonpackages.com`: http://pythonpackages.com
+
+.. include:: disqus.html

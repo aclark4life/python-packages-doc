@@ -15,3 +15,5 @@ Thus, we have described the core features of `pythonpackages.com`_:
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 .. _`Python Package Index`: http://pypi.python.org/pypi
+
+.. include:: disqus.html

@@ -17,3 +17,5 @@ This section provides an overview of `pythonpackages.com`_'s features.
    features-wrap
 
 .. _`pythonpackages.com`: http://pythonpackages.com
+
+.. include:: disqus.html

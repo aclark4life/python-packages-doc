@@ -17,3 +17,5 @@ Exciting!
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 .. _`Python Package Index`: http://pypi.python.org/pypi
+
+.. include:: disqus.html

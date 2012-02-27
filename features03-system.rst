@@ -18,3 +18,5 @@ buttons.
 Exciting! 
 
 .. _`pythonpackages.com`: http://pythonpackages.com
+
+.. include:: disqus.html

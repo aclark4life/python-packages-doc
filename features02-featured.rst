@@ -11,3 +11,5 @@ package has been featured on `pythonpackages.com`_.
 Exciting! 
 
 .. _`pythonpackages.com`: http://pythonpackages.com
+
+.. include:: disqus.html

@@ -30,3 +30,5 @@ Contents:
    :glob:
 
    ex*
+
+.. include:: disqus.html

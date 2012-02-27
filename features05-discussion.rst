@@ -10,3 +10,5 @@ Discuss packages
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features05-02.png
 
 .. _`pythonpackages.com`: http://pythonpackages.com
+
+.. include:: disqus.html

@@ -71,8 +71,8 @@ Now restart Plone. Click on `Site Setup -> Diazo theme -> Advanced settings`. Ma
 fields look like this:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-00.png
-654
-629
+   :width: 326
+   :height: 314.5
 
 Save the form. Select `Basic settings`. Select `Other` and enable your theme:
 

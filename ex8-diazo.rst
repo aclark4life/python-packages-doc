@@ -52,7 +52,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/plone.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex5-plone-00.png
 
 Create a new Plone site then move on to Part II.
 

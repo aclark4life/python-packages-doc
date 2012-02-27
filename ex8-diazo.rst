@@ -107,7 +107,8 @@ Open the following URL in your web browser:
 You should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-02.png
-
+   :width: 346
+   :height: 335
 
 Conclusion
 ~~~~~~~~~~

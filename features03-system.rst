@@ -12,7 +12,7 @@ E.g.:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features03-system-00.png
    :width: 459
-   :length: 173.5
+   :height: 173.5
 
 You can also feature packages via the "Feature it" or "Feature package"
 buttons.

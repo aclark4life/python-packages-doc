@@ -1,13 +1,15 @@
 .. Note:: This is a work in progress
 
-Discuss packages
-----------------
+Package quality
+---------------
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features05-00.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features06-quality-00.png
+   :width: 
+   :height:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features05-01.png
-
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features05-02.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features06-quality-01.png
+   :width: 
+   :height:
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 

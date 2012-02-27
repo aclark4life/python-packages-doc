@@ -67,11 +67,11 @@ And open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/django.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex4-django-00.png
 
 Everywhere else you should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/django-hello.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex4-django-01.png
 
 Happy times!
 

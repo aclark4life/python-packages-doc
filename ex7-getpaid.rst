@@ -45,6 +45,8 @@ Open the following URL in your web browser:
 Click on "Create a new plone site" and should see:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex7-getpaid-00.png
+   :width: 365.5
+   :height: 353
 
 Happy times!
 

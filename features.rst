@@ -10,12 +10,12 @@ This section provides an overview of `pythonpackages.com`_'s features.
    :maxdepth: 1
    :glob:
 
-   features01-downloaded
-   features02-featured
-   features03-system
-   features04-wall-of-praise
-   features05-discussion
-   features06-quality
+   feature01-downloaded
+   feature02-featured
+   feature03-system
+   feature04-wall-of-praise
+   feature05-discussion
+   feature06-quality
    feature-wrap
 
 .. _`pythonpackages.com`: http://pythonpackages.com

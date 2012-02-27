@@ -1,8 +1,7 @@
 .. Note:: This is a work in progress
 
-
-Features wrap-up
-================
+Conclusion
+==========
 
 That concludes the overview of `pythonpackages.com`_'s core features. Next we cover
 advanced features, including:

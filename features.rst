@@ -16,7 +16,7 @@ This section provides an overview of `pythonpackages.com`_'s features.
    features04-wall-of-praise
    features05-discussion
    features06-quality
-   features-wrap
+   feature-wrap
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 

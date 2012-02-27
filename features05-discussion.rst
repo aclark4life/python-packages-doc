@@ -3,11 +3,11 @@
 Discuss packages
 ----------------
 
-`pythonpackages.com`_ includes a package discussion feature. This feature
-allows you to add comments to your favorite Python packages. Scroll to the
-bottom of any package page to add comments. E.g.:
+`pythonpackages.com`_ includes a package discussion feature. 
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features05-discussion-00.png
+   :width: 389.5
+   :height: 342.5
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 

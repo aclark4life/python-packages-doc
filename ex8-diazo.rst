@@ -77,6 +77,8 @@ fields look like this:
 Save the form. Select `Basic settings`. Select `Other` and enable your theme:
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-01.png
+   :width: 373
+   :length: 336.5
 
 Return to the site root. You should see… no change! One more step. Edit
 index.html to contain::

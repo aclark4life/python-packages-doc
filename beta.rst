@@ -14,6 +14,8 @@ over here:
     - http://pythonpackages.com/beta/signup
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/beta01.png
+   :width: 419.5
+   :height: 258.5
 
 You will hear from us in Q1 2012!
 

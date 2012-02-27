@@ -72,7 +72,9 @@ You should see in the terminal::
 
 And in Plone:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/funnelweb.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex9-funnelweb-00.png
+   :width: 345
+   :height: 342.5
 
 Happy times!
 

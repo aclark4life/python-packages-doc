@@ -46,7 +46,9 @@ Open the following URL in your web browser:
 
 And you should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/jenkins.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex1-jenkins-00.png
+    :width: 336.5
+    :height: 240.5
 
 Happy times!
 

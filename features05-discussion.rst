@@ -1,7 +1,7 @@
 .. Note:: This is a work in progress
 
-Discuss packages
-----------------
+Package discussion
+------------------
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features05-discussion-00.png
    :width: 389.5

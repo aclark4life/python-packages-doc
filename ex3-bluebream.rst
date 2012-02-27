@@ -78,7 +78,7 @@ Open the following URL in your web browser:
 
 And you should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/bluebream.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex3-bluebream-00.png
 
 Happy times!
 

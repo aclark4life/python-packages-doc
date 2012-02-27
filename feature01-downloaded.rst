@@ -6,14 +6,14 @@ Display number of downloads
 In its simplest form, `pythonpackages.com`_ allows you to enter a Python
 package name
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features01-downloaded-00.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/feature01-downloaded-00.png
    :width: 269.5
    :height: 118
 
 to see the number of times it has been downloaded from the `Python Package
 Index`_:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/features01-downloaded-01.png
+.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/feature01-downloaded-01.png
    :width: 412
    :height: 143
 

@@ -1,7 +1,7 @@
 .. Note:: This is a work in progress
 
 Package activity
--------------------------
+----------------
 
 Coming soon
 

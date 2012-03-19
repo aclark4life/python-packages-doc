@@ -1,7 +1,7 @@
 .. Note:: This is a work in progress
 
-Display number of times featured
---------------------------------
+Number of times featured
+------------------------
 
 In addition to download statistics, `pythonpackages.com`_ displays the number of times a
 package has been featured on `pythonpackages.com`_.

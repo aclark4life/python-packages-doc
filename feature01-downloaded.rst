@@ -1,7 +1,7 @@
 .. Note:: This is a work in progress
 
-Display number of downloads
----------------------------
+Number of times downloaded
+--------------------------
 
 In its simplest form, `pythonpackages.com`_ allows you to enter a Python
 package name

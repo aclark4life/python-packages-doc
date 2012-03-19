@@ -2,8 +2,8 @@
 
 .. _`package featuring system`:
 
-Package featuring system
-------------------------
+Package featuring
+-----------------
 
 The process of entering a package name on `pythonpackages.com`_ causes it to be displayed
 in a list of recent entries, effectively featuring it.

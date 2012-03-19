@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #7
-==========
+Example #7 - PloneGetPaid
+=========================
 
 E-commerce platform for Plone: getpaid.
 

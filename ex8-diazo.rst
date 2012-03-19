@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #8
-==========
+Example #8 - Diazo
+==================
 
 How to theme the award-winning, Python-based, Plone CMS.
 

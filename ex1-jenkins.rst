@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #1
-==========
+Example #1 - Jenkins
+====================
 
 That was along way to go explain the following: we have some ready made
 configuration files available for you to use with ``buildout`` (and ``pip``,

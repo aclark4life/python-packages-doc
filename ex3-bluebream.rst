@@ -1,25 +1,9 @@
 .. include:: note-about-build-section.rst
 
-Example #3
-==========
+Example #3 - Bluebream
+======================
 
-Remember Zope? Well, it's still around (and doing fine, thank you). It took
-about 10 years to sort out the "rewrite" of the original, very famous,
-"application server" package. The result is literally hundreds of Zope-related
-Python packages grouped together under the project name "Zope Toolkit".
-
-Never heard of Zope? Well, it is a very well known rapid web
-application development environment, made very popular
-in the early 2000s by its ability to enable web development **through-the-web**
-(a technique that has since fallen out of favor, replaced by file system
-development and software version control). You may think of it as the 
-"Django/Pyramid/Flask/bottle/web2py" of its day. In fact, it was the very first
-Python web framework.
-
-Now-a-days, that application server is still in use, and maintained under the
-package name "Zope2" (http://pythonpackages.com/info/zope2). Other Zope-related
-technologies are in active development under various and sundry names. One such
-project/package is called ``Bluebream``.
+Formerly "Zope 3 application server".
 
 ``Bluebream`` installation
 --------------------------

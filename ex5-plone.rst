@@ -1,10 +1,9 @@
 .. include:: note-about-build-section.rst
 
-Example #5
-==========
+Example #5 - WSGI-powered Plone
+===============================
 
 The award-winning, Python-based, Plone CMS.
-
 
 WSGI-powered ``Plone`` setup
 ----------------------------

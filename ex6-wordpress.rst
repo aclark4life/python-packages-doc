@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #6
-==========
+Example #6 - Wordpress
+======================
 
 The award-winning, PHP-based blogging software, Wordpress.
 

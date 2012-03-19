@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #4
-==========
+Example #4 - Hello Django
+=========================
 
 In this example, we configure a "hello world" application for your
 Django-ing pleasure.

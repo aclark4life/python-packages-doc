@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #9
-==========
+Example #9 - funnelweb
+======================
 
 Easily import content into the award-winning, Python-based, Plone CMS.
 

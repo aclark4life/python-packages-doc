@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #2
-==========
+Example #2 - Apache + mod_wsgi
+==============================
 
 And now for a familiar topic, Apache and mod_wsgi.
 

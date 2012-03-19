@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #10
-===========
+Example #10 - Plone
+===================
 
 The award-winning, Python-based, Plone CMS. This time with the supported
 Python 2.6 and ZServer (instead of Python 2.7, which will be supported soon and

@@ -3,7 +3,7 @@
 Advanced
 ========
 
-This section contains information about an advanced feature of
+In this section we describe an advanced feature of
 pythonpackages.com: hosted configuration files.
 
 Buildout/easy_install vs. virtualenv/pip

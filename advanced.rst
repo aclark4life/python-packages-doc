@@ -19,7 +19,7 @@ Further, let us not debate about which tool is best. We have lots of tools in
 the Python world. What we are missing is **clarity**. Rather than force people to use
 a particular tool without explaining why, let us *better* explain what tools
 are available and let folks decide for themselves which ones they would like to use. In the
-case of ``zc.buildout`` and ``pip``, we can provide sample configuration files to
+case of ``zc.buildout`` and ``pip``, we can provide some sample configuration files to
 demonstrate their use.
 
 Hosted configuration files
@@ -27,7 +27,7 @@ Hosted configuration files
 
 In addition to its core features, ``pythonpackages.com`` provides a set of shared,
 extendable configuration files for building Python-based and other software.
-Please continue reading to see examples.
+Please continue reading to see the examples.
 
 Contents:
 

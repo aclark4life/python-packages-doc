@@ -9,7 +9,7 @@ pythonpackages.com: hosted configuration files.
 Buildout/easy_install vs. virtualenv/pip
 ----------------------------------------
 
-What do most Python programmers do for a living? They build things:
+What do most Python programmers do for a living? They build things like:
 software, services, systems and so on.
 
 How can we make building things (with Python) easier for everyone involved? By providing

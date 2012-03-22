@@ -1,4 +1,4 @@
-.. Note:: In this section we describe a "sub-feature" of
-    pythonpackages.com: hosted configuration files at
-    http://build.pythonpackages.com. Currently supports
-    ``zc.buildout``; ``pip`` coming soon.
+.. Note:: In this section we describe an advanced feature of
+    pythonpackages.com: hosted configuration files, located at
+    http://build.pythonpackages.com. They currently support
+    ``zc.buildout``; ``pip`` support coming soon.

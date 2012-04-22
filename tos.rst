@@ -1,0 +1,132 @@
+
+Terms of service
+================
+
+The following terms and conditions [1]_ govern all use of the pythonpackages.com website and all content, services and products available at or through the website, including, but not limited to, Package Featuring by pythonpackages.com (“Package Featuring”) and the pythonpackages.com one-click package release service (“One Click Service”), (taken together, the Website). The Website is owned and operated by ACLARK.NET, LLC (“ACLARK”). The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, ACLARK’s Privacy Policy) and procedures that may be published from time to time on this Site by ACLARK (collectively, the “Agreement”).
+
+Please read this Agreement carefully before accessing or using the Website. By accessing or using any part of the web site, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access the Website or use any services. If these terms and conditions are considered an offer by ACLARK, acceptance is expressly limited to these terms. The Website is available only to individuals who are at least 13 years old.
+
+Your pythonpackages.com Account and Site.
+-----------------------------------------
+
+If you login to the Website, you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with your account. You must not use the site in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of others, and ACLARK may change or remove any account that it considers inappropriate or unlawful, or otherwise likely to cause ACLARK liability. You must immediately notify ACLARK of any unauthorized uses of your account, or any other breaches of security. ACLARK will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
+
+Responsibility of Contributors.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, “Content”), You are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content available, you represent and warrant that:
+
+* the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
+
+* if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
+
+* you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
+
+* the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
+
+* the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+
+* the Content is not pornographic, does not contain threats or incite violence towards individuals or entities, and does not violate the privacy or publicity rights of any third party;
+
+* your account is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, blogs and other web sites, and similar unsolicited promotional methods;
+
+* your account is not named in a manner that misleads your readers into thinking that you are another person or company. For example, your account’s URL or name is not the name of a person other than yourself or company other than your own; and
+
+* you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by ACLARK or otherwise.
+
+By submitting Content to ACLARK for inclusion on the Website, you grant ACLARK a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting the Website. If you delete Content, ACLARK will use reasonable efforts to remove it from the Website, but you acknowledge that caching or references to the Content may not be made immediately unavailable.
+
+Without limiting any of those representations or warranties, ACLARK has the right (though not the obligation) to, in ACLARK’s sole discretion (i) refuse or remove any content that, in ACLARK’s reasonable opinion, violates any ACLARK policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in ACLARK’s sole discretion. ACLARK will have no obligation to provide a refund of any amounts previously paid.
+
+Payment and Renewal.
+--------------------
+
+General Terms.
+~~~~~~~~~~~~~~
+
+Optional paid services such as one-click package releases for Github organizations are available on the Website (any such services, an “Upgrade”). By selecting an Upgrade you agree to pay ACLARK the monthly or annual subscription fees indicated for that service (additional payment terms specifically for one-click release services are described below). Payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. Upgrade fees are not refundable.
+
+Automatic Renewal.
+~~~~~~~~~~~~~~~~~~
+
+Unless you notify ACLARK before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Upgrades can be canceled at any time in the Upgrades section of your site’s dashboard.
+
+One Click Service
+~~~~~~~~~~~~~~~~~
+
+Fees; Payment. By signing up for a One Click Service account you agree to pay ACLARK the setup fees and monthly hosting fees indicated at http://vip.wordpress.com/ in exchange for the services listed at http://vip.wordpress.com/. Applicable fees will be invoiced starting from the day your One Click Service are established and in advance of using such services. ACLARK reserves the right to change the payment terms and fees upon thirty (30) days prior written notice to you. One Click Service can be canceled by you at anytime on 30 days written notice to ACLARK.
+
+Support. One Click Service include access to priority email support. “Email support” means the ability to make requests for technical support assistance by email at any time (with reasonable efforts by ACLARK to respond within one business day) concerning the use of the One Click Service. “Priority” means that support for One Click Service customers takes priority over support for users of the standard, free pythonpackages.com services. All One Click Service support will be provided in accordance with ACLARK standard One Click Service practices, procedures and policies.
+
+Permitted Use. You may use the pythonpackages.com One Click Service to release packages from Github to the Python Package Index. You may also use the pythonpackages.com name or logos and other brand elements that ACLARK makes available in order to identify the source of the release.
+
+Restricted Use. You may not use pythonpackages.com to substantially replicate products or services offered by ACLARK, including the republication of pythonpackages.com content or the creation of a separate publishing platform. If ACLARK believes, in its sole discretion, that you have violated or attempted to violate these conditions or the spirit of these terms, your ability to use and access the pythonpackages.com One Click Service may be temporarily or permanently revoked, with or without notice.
+
+Responsibility of Website Visitors.
+-----------------------------------
+
+ACLARK has not reviewed, and cannot review, all of the material, including computer software, posted to the Website, and cannot therefore be responsible for that material’s content, use or effects. By operating the Website, ACLARK does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. The Website may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors. The Website may also contain material that violates the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties, or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. ACLARK disclaims any responsibility for any harm resulting from the use by visitors of the Website, or from any downloading by those visitors of content there posted.
+
+Content Posted on Other Websites.
+---------------------------------
+
+We have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and webpages to which pythonpackages.com links, and that link to pythonpackages.com. ACLARK does not have any control over other websites and webpages, and is not responsible for their contents or their use. By linking to another website or webpage, ACLARK does not represent or imply that it endorses such website or webpage. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. ACLARK disclaims any responsibility for any harm resulting from your use of other websites and webpages.
+
+Copyright Infringement and DMCA Policy.
+---------------------------------------
+
+As ACLARK asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by pythonpackages.com violates your copyright, you are encouraged to notify ACLARK in accordance with ACLARK’s Digital Millennium Copyright Act (“DMCA”) Policy. ACLARK will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. ACLARK will terminate a visitor’s access to and use of the Website if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of ACLARK or others. In the case of such termination, ACLARK will have no obligation to provide a refund of any amounts previously paid to ACLARK.
+
+Intellectual Property.
+----------------------
+
+This Agreement does not transfer from ACLARK to you any ACLARK or third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with ACLARK. ACLARK, pythonpackages.com, the pythonpackages.com logo, and all other trademarks, service marks, graphics and logos used in connection with pythonpackages.com, or the Website are trademarks or registered trademarks of ACLARK or ACLARK’s licensors. Other trademarks, service marks, graphics and logos used in connection with the Website may be the trademarks of other third parties. Your use of the Website grants you no right or license to reproduce or otherwise use any ACLARK or third-party trademarks.
+
+Advertisements.
+---------------
+
+ACLARK reserves the right to display advertisements on the Website unless you have purchased a One Click Service account.
+
+Attribution.
+------------
+
+ACLARK reserves the right to display attribution links such as ‘pythonpackages.com,’ in your footer or toolbar. Footer credits and the pythonpackages.com toolbar may not be removed regardless of upgrades purchased.
+
+Changes.
+--------
+
+ACLARK reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Your continued use of or access to the Website following the posting of any changes to this Agreement constitutes acceptance of those changes. ACLARK may also, in the future, offer new services and/or features through the Website (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement.
+
+Termination.
+------------
+
+ACLARK may terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your pythonpackages.com account (if you have one), you may simply discontinue using the Website. Notwithstanding the foregoing, if you have a One Click Service account, such account can only be terminated by ACLARK if you materially breach this Agreement and fail to cure such breach within thirty (30) days from ACLARK’s notice to you thereof; provided that, ACLARK can terminate the Website immediately as part of a general shut down of our service. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+Disclaimer of Warranties.
+-------------------------
+
+The Website is provided “as is”. ACLARK and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither ACLARK nor its suppliers and licensors, makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted. If you’re actually reading this, here’s a treat. You understand that you download from, or otherwise obtain content or services through, the Website at your own discretion and risk.
+
+Limitation of Liability.
+------------------------
+
+In no event will ACLARK, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to ACLARK under this agreement during the twelve (12) month period prior to the cause of action. ACLARK shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+
+General Representation and Warranty.
+------------------------------------
+
+You represent and warrant that (i) your use of the Website will be in strict accordance with the ACLARK Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of the Website will not infringe or misappropriate the intellectual property rights of any third party.
+
+Indemnification.
+----------------
+
+You agree to indemnify and hold harmless ACLARK, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of the Website, including but not limited to your violation of this Agreement.
+
+Miscellaneous.
+--------------
+
+This Agreement constitutes the entire agreement between ACLARK and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of ACLARK, or by the posting by ACLARK of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of the Website will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California. Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys’ fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; ACLARK may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
+
+.. rubric:: Footnotes
+
+.. [1] Thanks to WordPress.Com for their CC licensed TOS: http://en.wordpress.com/tos/

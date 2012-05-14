@@ -11,9 +11,10 @@ In this documentation we introduce `pythonpackages.com`_ to its target audience:
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    index
+   features
 
 What is it?
 -----------

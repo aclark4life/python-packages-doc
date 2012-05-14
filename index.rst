@@ -9,6 +9,12 @@ In this documentation we introduce `pythonpackages.com`_ to its target audience:
    :height: 328
    :align: right
 
+
+.. toctree::
+   :maxdepth: 2
+
+   features
+
 What is it?
 -----------
 

@@ -2,18 +2,16 @@
 Beta
 ====
 
-When our beta site launches in early 2012,
-we will introduce a new feature we think Python programmers will like.
+When our beta site launches in mid 2012, we will introduce a new feature we think Python programmers will like.
 
 Sign up
 -------
 
-If you have not done so already, please take a minute to sign up for the beta
-over here:
+If you have not done so already, please take a minute to sign up for the beta over here:
 
     - http://pythonpackages.com/beta/signup
 
-You will hear from us in Q1 2012!
+You will hear from us in Q2 2012!
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/beta01.png
    :width: 419.5

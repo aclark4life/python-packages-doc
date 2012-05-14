@@ -10,8 +10,6 @@
    :width: 422
    :height: 328
 
-Contents:
-
 .. toctree::
    :maxdepth: 1
 
@@ -20,7 +18,6 @@ Contents:
    features
    advanced
    thanks
-
 
 Indices and tables
 ==================

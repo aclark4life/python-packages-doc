@@ -9,7 +9,7 @@ Sign up
 
 If you have not done so already, please take a minute to sign up for the beta over here:
 
-    - http://pythonpackages.com/beta/signup
+    - http://pythonpackages.com/signup
 
 You will hear from us in Q2 2012!
 

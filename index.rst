@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to `pythonpackages.com`_'s documentation!
-=================================================
+`pythonpackages.com`_'s documentation
+=====================================
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/screenshot.png
    :width: 389.5

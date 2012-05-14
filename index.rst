@@ -13,6 +13,7 @@ In this documentation we introduce `pythonpackages.com`_ to its target audience:
 .. toctree::
    :maxdepth: 2
 
+   index
    features
 
 What is it?

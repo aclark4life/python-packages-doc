@@ -7,8 +7,8 @@
 =====================================
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/screenshot.png
-   :width: 389.5
-   :height: 342.5
+   :width: 422
+   :height: 328
 
 Contents:
 

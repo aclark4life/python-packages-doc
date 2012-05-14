@@ -14,7 +14,6 @@ In this documentation we introduce `pythonpackages.com`_ to its target audience:
    :maxdepth: 2
 
    index
-   features
 
 What is it?
 -----------

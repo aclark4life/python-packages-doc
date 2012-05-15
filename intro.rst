@@ -2,7 +2,7 @@
 What is it?
 -----------
 
-`pythonpackages.com`_ is a website that showcases Python packages. [1]_ For more information, please see the `history section`_.
+`pythonpackages.com`_ features `Python packages`_ and the `people who love them`_. [1]_ For more information, please see the `history section`_.
 
 .. _`history section`:
 
@@ -26,11 +26,13 @@ Next, a :ref:`package featuring` system was added to allow users to feature thei
 .. include:: disqus.html
 
 .. _`Python Package Index`: http://pypi.python.org
+.. _`python packages`: http://pypi.python.org
 .. _`package commenting system`: http://disqus.com
 .. _`comparison grids`: http://opencomparison.org
 .. _`documentation`: http://readthedocs.org
 .. _`downloadable files`: http://crate.io
 .. _`pythonpackages.com`: http://pythonpackages.com
+.. _`people who love them`: http://pythonpackages.com/users
 .. _`vanity`: http://pythonpackages.com/package/vanity
 
 .. [1] alpha site functionality; the beta site will include more features.

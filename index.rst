@@ -10,6 +10,7 @@ In this document we introduce `pythonpackages.com`_ to its target audience: **Py
 
 .. toctree::
    :maxdepth: 1
+
    intro
    background
    beta

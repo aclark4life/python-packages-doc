@@ -5,15 +5,15 @@ Introduction
 In this document we introduce `pythonpackages.com`_ to its target audience: **Python programmers**.
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/screenshot.png
-   :scale: 50%
-   :align: right
+   :width: 416.5
+   :height: 325
 
 .. toctree::
    :maxdepth: 1
 
+   beta
    intro
    background
-   beta
    features
    advanced
    thanks

@@ -42,5 +42,7 @@ Thanks
 
 - Freenode #pyramid folks for help with Pyramid.
 
+- jenner from #pyramid for slogan #3: #pyramid.log:15:11 < jenner> http://pythonpackages.com/ nice mashup
+
 - To anyone I forgot, or otherwise unintentionally omitted: you know who you are, thank you.
 

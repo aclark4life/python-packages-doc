@@ -18,7 +18,7 @@ few commands::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://build.pythonpackages.com/buildout/wordpress/latest
+    extends = http://pythonpackages.com/buildout/wordpress/latest
 
 Then run::
 

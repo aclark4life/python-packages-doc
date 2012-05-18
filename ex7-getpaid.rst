@@ -17,7 +17,7 @@ You want to try ``getpaid`` for Plone::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://build.pythonpackages.com/buildout/getpaid/latest
+    extends = http://pythonpackages.com/buildout/getpaid/latest
 
 Then run::
 

@@ -20,7 +20,7 @@ You want to take ``Plone`` for a spin::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://build.pythonpackages.com/buildout/plone/latest
+    extends = http://pythonpackages.com/buildout/plone/latest
 
 Then run::
 

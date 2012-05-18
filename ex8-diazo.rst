@@ -22,7 +22,7 @@ Follow these steps::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://build.pythonpackages.com/buildout/plone/latest
+    extends = http://pythonpackages.com/buildout/plone/latest
 
     [plone]
     resources = ${buildout:directory}/resources

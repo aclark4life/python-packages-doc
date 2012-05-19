@@ -18,7 +18,7 @@ You want to take ``Django`` for a spin, but you don't know much about it::
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/django/latest
+    extends = http://pythonpackages.com/buildout/django/1.4.x
 
 Then run::
 

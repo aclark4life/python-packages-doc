@@ -18,7 +18,7 @@ to run the simplest possible application locally in order to see how it works::
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/apache/latest
+    extends = http://pythonpackages.com/buildout/apache/2.2.x
 
 Then run::
 

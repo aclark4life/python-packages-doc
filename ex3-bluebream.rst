@@ -19,7 +19,7 @@ out::
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/bluebream/latest
+    extends = http://pythonpackages.com/buildout/bluebream/1.0
 
 Then run::
 

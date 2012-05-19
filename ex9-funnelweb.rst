@@ -18,7 +18,7 @@ You want to import your non-Plone website content into ``Plone``::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/plone/latest
+    extends = http://pythonpackages.com/buildout/plone/4.1.x
     parts += funnelweb
 
     [funnelweb]

@@ -3,13 +3,12 @@
 Example #2 - Apache + mod_wsgi
 ==============================
 
-And now for a familiar topic, Apache and mod_wsgi.
+You want to understand how to set up your WSGI application under mod_wsgi.
 
 ``Apache`` with "hello world" WSGI app
 --------------------------------------
 
-You want to understand how to set up your WSGI application under mod_wsgi. You decide
-to run the simplest possible application locally in order to see how it works::
+You decide to run the simplest possible application locally in order to see how it works::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
@@ -18,7 +17,7 @@ to run the simplest possible application locally in order to see how it works::
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/apache/2.2.x
+    extends = http://pythonpackages.com/buildout/apache-modwsgi/2.2.x
 
 Then run::
 

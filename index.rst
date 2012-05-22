@@ -5,8 +5,8 @@ Introduction
 In this document we introduce `pythonpackages.com`_ to its target audience: **Python programmers**.
 
 .. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/screenshot.png
-   :width: 416.5
-   :height: 325
+   :width: 488.5
+   :height: 462
 
 .. toctree::
    :maxdepth: 1

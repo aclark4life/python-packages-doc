@@ -4,7 +4,7 @@ Introduction
 
 In this document we introduce `pythonpackages.com`_ to its target audience: **Python programmers**.
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/screenshot.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/screenshot.png
 
 .. toctree::
    :maxdepth: 1

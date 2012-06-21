@@ -5,12 +5,14 @@ Advanced
 
 In this section we describe an advanced feature of `pythonpackages.com`_: hosted configuration files.
 
-Buildout/easy_install vs. virtualenv/pip
-----------------------------------------
+Generic tools rant
+------------------
 
-What do most Python programmers do for a living? They build things like: software, services, systems and so on. How can we make building things (with Python) easier for everyone involved? By providing clear and concise documentation.
+What do most Python programmers do for a living? They build things like software, services, systems, etc. How can we make building things with Python easier for everyone involved?
 
-Further more, let us refrain from a debate about which tool is best. We have lots of tools in the Python world. What we are missing is **clarity**. Rather than force people to use a particular tool without explaining why, let us *better* explain what tools are available and let folks decide for themselves which ones they would like to use. In the case of ``zc.buildout`` and ``pip``, we can provide some sample configuration files to demonstrate their use.
+Provide clear, concise and comprehensive documentation.
+
+Further more, let us refrain from a debate about which tool is "best". We have lots of tools in the Python world. But we are missing **clarity**. Rather than force people to use a particular tool without explaining why, let us *better* explain what tools are available and let folks decide for themselves which one(s) they would like to use. This section contains sample ``zc.buildout`` configuration files to demonstrate its use.
 
 Hosted configuration files
 --------------------------

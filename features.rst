@@ -14,7 +14,6 @@ This section provides an overview of `pythonpackages.com`_'s features.
    feature02-featured
    feature03-system
    feature04-wall-of-praise
-   feature05-discussion
    feature06-quality
    feature07-activity
    feature-wrap

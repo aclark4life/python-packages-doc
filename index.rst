@@ -1,8 +1,8 @@
 
-Introduction
-============
+pythonpackages.com
+==================
 
-In this document we introduce `pythonpackages.com`_ to its target audience: **Python programmers**.
+`pythonpackages.com` helps busy Python programmers package and release their software with only a few clicks.
 
 .. toctree::
    :maxdepth: 1

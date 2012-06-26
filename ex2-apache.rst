@@ -40,7 +40,7 @@ Open the following URL in your web browser:
 
 And you should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex2-apache-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex2-apache-00.png
 
 Happy times!
 

@@ -62,7 +62,7 @@ Open the following URL in your web browser:
 
 And you should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex3-bluebream-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex3-bluebream-00.png
    :width: 248
    :height: 144
 

@@ -52,7 +52,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex5-plone-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex5-plone-00.png
    :width: 294
    :height: 187
 
@@ -70,13 +70,13 @@ Now CTRL-C Plone and do the following::
 Now restart Plone. Click on `Site Setup -> Diazo theme -> Advanced settings`. Make your
 fields look like this:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex8-diazo-00.png
    :width: 326
    :height: 314.5
 
 Save the form. Select `Basic settings`. Select `Other` and enable your theme:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-01.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex8-diazo-01.png
    :width: 373
    :height: 336.5
 
@@ -106,7 +106,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex8-diazo-02.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex8-diazo-02.png
    :width: 346
    :height: 335
 

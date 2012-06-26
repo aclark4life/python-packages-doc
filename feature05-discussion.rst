@@ -3,7 +3,7 @@
 Package discussion
 ------------------
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/feature05-discussion-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/feature05-discussion-00.png
    :width: 384
    :height: 343.5
 
@@ -11,7 +11,7 @@ Package discussion
 
 E.g.:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/feature05-discussion-01.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/feature05-discussion-01.png
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 

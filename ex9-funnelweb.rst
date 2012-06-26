@@ -50,7 +50,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex5-plone-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex5-plone-00.png
    :width: 294
    :height: 187
 
@@ -74,7 +74,7 @@ You should see in the terminal::
 
 And in Plone:
 
-.. image:: https://github.com/aclark4life/pythonpackages-docs/raw/master/ex9-funnelweb-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex9-funnelweb-00.png
    :width: 345
    :height: 342.5
 

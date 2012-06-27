@@ -1,6 +1,6 @@
 
-pythonpackages.com
-==================
+`pythonpackages.com`
+====================
 
 .. image:: http://c260667.r67.cf1.rackcdn.com/favicon.ico
 

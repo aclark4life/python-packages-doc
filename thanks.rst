@@ -4,7 +4,7 @@ Thanks
 
 pythonpackages.com would like to thank:
 
-- The entire Plone and Python communities, without which there would be no pythonpackages.com
+- The entire Zope, Python and Plone communities, without which there would be no pythonpackages.com
 
 - Chris McDonough for Pyramid
 

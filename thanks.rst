@@ -45,3 +45,5 @@ Thanks
 - To anyone else I forgot, or otherwise unintentionally omitted: thank you
 
 - WordPress for their CC licensed TOS and Privacy Policy: http://en.wordpress.com/tos/, http://automattic.com/privacy/
+
+- readthedocs.org for being awesome

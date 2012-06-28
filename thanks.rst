@@ -1,6 +1,6 @@
 
-Thank
-=====
+Thanks
+======
 
 **pythonpackages.com** would like to thank:
 

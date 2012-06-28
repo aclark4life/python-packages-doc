@@ -46,5 +46,3 @@ Privacy Policy Changes
 ----------------------
 
 Although most changes are likely to be minor, ACLARK.NET may change its Privacy Policy from time to time, and in ACLARK.NET’s sole discretion. ACLARK.NET encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a pythonpackages.com account, you should also check your pythonpackages.com dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-.. rubric:: Footnotes

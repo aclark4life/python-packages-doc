@@ -1,5 +1,10 @@
+{% extends 'basic/layout.html' %}
 <!DOCTYPE html>
-<html lang="en"><head>
+<html lang="en">
+
+
+{% block extrahead %}
+<head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <title>pythonpackages.com</title>
@@ -33,7 +38,10 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://twitter.github.com/bootstrap/assets/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="http://twitter.github.com/bootstrap/assets/ico/apple-touch-icon-57-precomposed.png">
   </head>
+{% endblock %}
 
+
+{% block document %}
   <body>
 
     <div class="navbar navbar-fixed-top">
@@ -68,10 +76,6 @@
 
       <hr>
 
-      <footer>
-        <p>&copy; <a href="http://aclark.net">ACLARK.NET, LLC</a> 2011-2012</p>
-      </footer>
-
     </div><!--/.fluid-container-->
 
     <!-- Le javascript
@@ -82,4 +86,8 @@
 
   
 
-</body></html>
+</body>
+
+{% endblock %}
+
+</html>

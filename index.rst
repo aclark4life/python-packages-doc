@@ -8,7 +8,8 @@ Introduction
    :maxdepth: 1
 
    privacy
-   thanks
    tos
+
+   thanks
 
 .. _`pythonpackages.com`: http://pythonpackages.com

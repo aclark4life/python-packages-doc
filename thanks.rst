@@ -42,7 +42,7 @@ pythonpackages.com would like to thank:
 
 - Freenode #pyramid folks for Pyramid help
 
-- jenner from #pyramid, for pythonpackages.com slogan #3: Nice Mashu
+- jenner from #pyramid, for pythonpackages.com slogan #3: Nice Mashup
 
 - To anyone else I forgot, or otherwise unintentionally omitted: thank you
 

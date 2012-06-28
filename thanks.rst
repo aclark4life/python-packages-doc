@@ -40,12 +40,18 @@ pythonpackages.com would like to thank:
 
 - Catalog-sig folks, especially Richard Jones and Martin von Löwis
 
-- Freenode #pyramid folks for Pyramid help
+- Freenode #pyramid folks for Pyramid help, especially Michael Merickel (AKA raydeo)
 
 - jenner from #pyramid, for pythonpackages.com slogan #3: Nice Mashup
 
 - WordPress for their CC licensed TOS and Privacy Policy: http://en.wordpress.com/tos/, http://automattic.com/privacy/
 
-- readthedocs.org for being awesome
+- readthedocs.org for being awesome, and hosting our docs
+
+- GitHub folks
+
+- Bitbucket folks
+
+- Marcin Lulek for errormator
 
 - To anyone else I forgot, or otherwise unintentionally omitted: thank you

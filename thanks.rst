@@ -10,6 +10,8 @@ Thanks
 
 - Salvatore Sanfilippo for redis
 
+- Kenneth Reitz for requests
+
 - Sean "nutjob" Kelly for early feedback, encouragement and for featuring "puke" and "Jug" when no one else would
 
 - Erik Rose and James Socol for early feedback and encouragement

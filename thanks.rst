@@ -1,48 +1,47 @@
 
-Thanks
-======
+Thank
+=====
 
-**pythonpackages.com** would like to thank: 
+**pythonpackages.com** would like to thank:
 
-- The entire Plone and Python communities, without which there would be no
-  **pythonpackages.com**.
+- The entire Plone and Python communities, without which there would be no **pythonpackages.com**
 
-- Chris McDonough for creating the Pyramid Web Application Framework.
+- Chris McDonough for Pyramid
 
-- Salvatore Sanfilippo for creating redis.
+- Salvatore Sanfilippo for redis
 
-- Sean "nutjob" Kelly for early feedback, encouragement and for featuring "puke" and "Jug" when no one else would.
+- Sean "nutjob" Kelly for early feedback, encouragement and for featuring "puke" and "Jug" when no one else would
 
-- Erik Rose and James Socol for early feedback and encouragement.
+- Erik Rose and James Socol for early feedback and encouragement
 
-- Danny Greenfeld and Audrey Roy for early feedback, encouragement and the
-  opencomparison.org sites.
+- Danny Greenfeld and Audrey Roy for early feedback, encouragement and the opencomparison.org sites
 
-- Donald Stufft for crate.io.
+- Donald Stufft for crate.io
 
-- Joshua Ginsberg for redis help.
+- Joshua Ginsberg for redis help
 
-- David Glick for code from PloneSoftwareCenter. 
+- David Glick for PloneSoftwareCenter code
 
-- Free CSS Themes and Twitter Bootstrap people.
+- Free CSS Themes and Twitter Bootstrap people
 
-- DISQUS folks.
+- DISQUS folks
 
-- Rob Cakebread for yolk.
+- Rob Cakebread for yolk
 
-- Stefan Holek for jarn.mkrelease.
+- Stefan Holek for jarn.mkrelease
 
-- Andreas Jung for zopyx.trashfinder.
+- Andreas Jung for zopyx.trashfinder
 
-- The Fellowship of the Packaging, especially Distutils2 folks.
+- The Fellowship of the Packaging, especially Distutils2 folks
 
-- Matt Bowen for general encouragement.
+- Matt Bowen for general encouragement
 
-- Catalog-sig folks, especially Richard Jones and Martin von Löwis.
+- Catalog-sig folks, especially Richard Jones and Martin von Löwis
 
-- Freenode #pyramid folks for help with Pyramid.
+- Freenode #pyramid folks for Pyramid help
 
-- jenner from #pyramid for slogan #3: #pyramid.log:15:11 < jenner> http://pythonpackages.com/ nice mashup
+- jenner from #pyramid, for pythonpackages.com slogan #3: Nice Mashu
 
-- To anyone I forgot, or otherwise unintentionally omitted: you know who you are, thank you.
+- To anyone else I forgot, or otherwise unintentionally omitted: thank you
 
+- WordPress for their CC licensed TOS and Privacy Policy: http://en.wordpress.com/tos/, http://automattic.com/privacy/

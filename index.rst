@@ -7,4 +7,8 @@ Introduction
 .. toctree::
    :maxdepth: 1
 
+   privacy
+   thanks
+   tos
+
 .. _`pythonpackages.com`: http://pythonpackages.com

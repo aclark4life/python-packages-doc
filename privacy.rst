@@ -2,7 +2,7 @@
 Privacy Policy
 ==============
 
-ACLARK.NET, LLC (“ACLARK.NET”) operates several websites including pythonpackages.com. It is ACLARK.NET’s policy to respect your privacy [1]_ regarding any information we may collect while operating our websites.
+ACLARK.NET, LLC (“ACLARK.NET”) operates several websites including pythonpackages.com. It is ACLARK.NET’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
 Website Visitors
 ----------------

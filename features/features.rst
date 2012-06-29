@@ -12,6 +12,5 @@ Features
    feature04-wall-of-praise
    feature06-quality
    feature07-activity
-   feature-wrap
 
 .. include:: disqus.html

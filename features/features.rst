@@ -1,13 +1,9 @@
-.. Note:: This is a work in progress
-
 
 Features
 ========
 
-This section provides an overview of `pythonpackages.com`_'s features.
-
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :glob:
 
    feature01-downloaded
@@ -17,7 +13,5 @@ This section provides an overview of `pythonpackages.com`_'s features.
    feature06-quality
    feature07-activity
    feature-wrap
-
-.. _`pythonpackages.com`: http://pythonpackages.com
 
 .. include:: disqus.html

@@ -1,4 +1,3 @@
-.. Note:: This is a work in progress
 
 Number of times featured
 ------------------------

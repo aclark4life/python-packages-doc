@@ -1,4 +1,3 @@
-.. Note:: This is a work in progress
 
 Python 3 wall of praise
 -----------------------

@@ -9,7 +9,7 @@ in a list of recent entries, effectively featuring it.
 
 E.g.:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/feature03-system-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/feature03-system-00.png
    :width: 459
    :height: 173.5
 

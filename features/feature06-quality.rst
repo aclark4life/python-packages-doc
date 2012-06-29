@@ -6,11 +6,11 @@ Package quality
 (i.e. too short?) and distribution formats uploaded (i.e. egg but no sdist?).
 If your package meets the acceptable criteria you should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/feature06-quality-01.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/feature06-quality-01.png
 
 Otherwise you may see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/feature06-quality-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/feature06-quality-00.png
 
 This functionality is provided by a library called `pypi.trashfinder`_, which is
 a pythonpackages.com-specific fork of `zopyx.trashfinder`_.

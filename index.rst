@@ -7,6 +7,7 @@ pythonpackages.com helps busy Python programmers package and release their softw
 .. toctree::
    :maxdepth: 1
 
+   crashcourse
    features/features
    privacy
    tos

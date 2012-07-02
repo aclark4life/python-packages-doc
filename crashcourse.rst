@@ -39,4 +39,4 @@ Please report any issues you encounter here:
 
 * https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
-Thank you for using the beta! Feel free to release to PyPI by pressing the "Release" button once you feel comfortable using the system. This will automatically create a tag for you on GitHub. A lot more features and task automation are being planned, but we need your help to test and stablize the beta release first.
+Thank you for using the beta relase features. Please feel free to release packages to PyPI by pressing the "Release" button, once you feel comfortable using the system. This will automatically create a release tag for you on GitHub from your last commit. A lot more features and task automation are being planned, but we need your help to test and stablize the beta release first.

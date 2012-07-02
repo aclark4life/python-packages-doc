@@ -1,6 +1,6 @@
 
-Crash course for beta users
-===========================
+Crash course (for beta users)
+=============================
 
 Welcome. Please follow the steps in this guide to get started using pythonpackages.com beta release features.
 

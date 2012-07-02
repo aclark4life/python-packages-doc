@@ -13,18 +13,18 @@ Step 1: Access
 
 * Select Username -> Dashboard. You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/fd8bb9f8f6d9dc56dde567af2152855f01384751/crashcourse.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/crashcourse.png
 
 Step 2: Add package slot and select repository
 ----------------------------------------------
 
 * With the free plan, you have access to a single package slot. You can use this slot to select any repository in your GitHub account.
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/fd8bb9f8f6d9dc56dde567af2152855f01384751/crashcourse2.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/crashcourse2.png
 
 * Now select a repository that contains a Python package you would like to release.
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/fd8bb9f8f6d9dc56dde567af2152855f01384751/crashcourse2-1.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/crashcourse2-1.png
 
 Step 3: Test release
 --------------------
@@ -33,5 +33,5 @@ Step 3: Test release
 
 * Send the release to the test index server with the "Test release" button. You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/fd8bb9f8f6d9dc56dde567af2152855f01384751/crashcourse3.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/crashcourse3.png
 

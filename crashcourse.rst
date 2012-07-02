@@ -29,7 +29,7 @@ Step 2: Add package slot and select repository
 Step 3: Test release
 --------------------
 
-* Warning: there is no magic yet. In addition to selecting a working package, you should add a MANIFEST.in file if you don't have one already. pythonpackages.com does not know about any version control integration you may be using locally.
+* Warning: there is no magic yet. In addition to selecting a valid package, you should add a `MANIFEST.in file`_ if you don't have one already. pythonpackages.com does not know about any version control integration you may be using locally.
 
 * Send the release to the test index server with the "Test release" button. You should see:
 
@@ -40,3 +40,5 @@ Please report any issues you encounter here:
 * https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
 Thank you for using the beta release features. Once you feel comfortable using the system, you are welcome to release your packages to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub via your last commit. A lot more features and task automation are being planned, but first we need your help to test and stablize the beta release.
+
+.. _`MANIFEST.in file`: http://docs.python.org/distutils/sourcedist.html#the-manifest-in-template

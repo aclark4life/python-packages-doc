@@ -1,4 +1,6 @@
 
+.. Note:: The beta is intended for use by folks who sign up for the beta, at which point pythonpackages.com checks your GitHub email against your beta sign-up email. However, the GitHub API only returns an email address if configured to display publicly here: https://github.com/settings/profile. If you have signed up for the beta but don't want to display your email to the public on GitHub, please `open a ticket` with your GitHub user id and we will white list you.
+
 Crash course (for beta users)
 =============================
 
@@ -42,3 +44,6 @@ Please report any issues you encounter here:
 Thank you for using the beta release features. Once you feel comfortable using the system, you are welcome to release your packages to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub via your last commit. A lot more features and task automation are being planned, but first we need your help to test and stablize the beta release.
 
 .. _`MANIFEST.in file`: http://docs.python.org/distutils/sourcedist.html#the-manifest-in-template
+
+.. _`open a ticket`: https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
+

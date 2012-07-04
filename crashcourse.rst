@@ -1,5 +1,5 @@
 
-.. Note:: The beta release is intended for use by folks who `sign up for the beta`_. When you login, pythonpackages.com checks your GitHub email address against the email address you used to sign up for the beta. However, the GitHub API only returns an email address if configured to display publicly here: https://github.com/settings/profile. If you have signed up for the beta but don't want to display your email to the public on GitHub, please `open a ticket`_ with your GitHub user id and we will whitelist you.
+.. Note:: The beta release is intended for use by folks who `sign up for the beta`_. When you login, pythonpackages.com checks your GitHub email address against the email address you used to sign up for the beta. However, the GitHub API only returns an email address if configured to display publicly here: https://github.com/settings/profile. If you have signed up for the beta but don't want to display your email to the public on GitHub, please `open a ticket`_ with your GitHub user id and we will whitelist your account.
 
 Crash course (for beta users)
 =============================

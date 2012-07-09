@@ -3,7 +3,7 @@ Features
 ========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
 
    feature01-downloaded

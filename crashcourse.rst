@@ -1,5 +1,5 @@
 
-.. Note:: The beta release features are intended for use by anyone who `signs up for the beta`_. pythonpackages.com checks your GitHub email address against your beta signup email address. However, the GitHub API only returns an email address if you've configured one to display publicly, here: https://github.com/settings/profile. If you have signed up for the beta (before July 9th, afterwards we ask for your GitHub username) but don't want to display your email to the public on GitHub, please `open a ticket`_ with your GitHub user id and we will whitelist your account.
+.. Warning:: The beta release features are intended for use by anyone who `signs up for the beta`_. pythonpackages.com checks your GitHub email address against your beta signup email address. However, the GitHub API currently only returns an email address if you've configured one to display publicly, here: https://github.com/settings/profile. If you have signed up for the beta (before July 9th, afterwards we ask you for your GitHub username) but don't want to display your email to the public on GitHub, please `open a ticket`_ with your GitHub username and we will whitelist your account.
     :class: alert
 
 Crash course (for beta users)
@@ -48,4 +48,4 @@ Thank you for using the beta release features. Once you feel comfortable using t
 
 .. _`open a ticket`: https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
-.. _`sign up for the beta`: https://pythonpackages.com/signup
+.. _`signs up for the beta`: https://pythonpackages.com/signup

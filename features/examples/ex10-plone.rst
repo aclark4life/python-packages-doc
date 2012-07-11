@@ -3,17 +3,14 @@
 Example #10 - Plone
 ===================
 
-The award-winning, Python-based, Plone CMS. This time with the supported
-Python 2.6 and ZServer (instead of Python 2.7, which will be supported soon and
-WSGI, whose support has yet to be determined.)
-
+The award-winning, Python-based, Plone CMS.
 
 Supported ``Plone`` setup
 -------------------------
 
 You want to take ``Plone`` for a spin::
 
-    $ virtualenv-2.6 .
+    $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
     $ bin/buildout init
 

@@ -8,7 +8,7 @@ The award-winning, Python-based, Plone CMS.
 Supported ``Plone`` setup
 -------------------------
 
-You want to take ``Plone`` for a spin::
+You are a Python programmer and you want to take ``Plone`` for a spin::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

@@ -1,4 +1,3 @@
-
 Documentation
 =============
 
@@ -9,9 +8,6 @@ pythonpackages.com helps Python programmers package and release their software w
 
    introduction
    features/features
-   privacy
-   tos
-
    thanks
 
 .. _`pythonpackages.com`: http://pythonpackages.com

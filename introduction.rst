@@ -1,5 +1,4 @@
-
-.. Note:: The beta release features are intended for use by anyone who has `signed up for the beta`_. pythonpackages.com checks your GitHub email address against your beta signup email address. However, the GitHub API currently only returns an email address if you've configured one to display publicly here: https://github.com/settings/profile. If you have signed up for the beta before July 9 2012 (afterward the form requires your GitHub username), but don't want to display your email to the public, please `open a ticket`_ and include your GitHub username. We will whitelist your account.
+.. Note:: The beta release features should be available to anyone who has `signed up for the beta`_. pythonpackages.com checks your GitHub email address against your beta signup email address. However, the GitHub API currently only returns an email address if you've configured one to display publicly here: https://github.com/settings/profile. If you have signed up for the beta before July 9 2012 (afterward the form requires your GitHub username), but don't want to display your email to the public, please `open a ticket`_ and include your GitHub username. We will whitelist your account.
     :class: alert alert-info
 
 Introduction
@@ -42,10 +41,10 @@ Please report any issues you encounter here:
 
 - https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
-Thank you for using the beta release features. Once you feel comfortable using the system, you are welcome to release your packages to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub via your last commit. A lot more features and task automation are being planned, but first we need your help to test and stablize the beta release.
+Thank you for using the beta release features. Once you feel comfortable using the system, you are welcome to release your packages to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub via your last commit.
 
 .. _`MANIFEST.in file`: http://docs.python.org/distutils/sourcedist.html#the-manifest-in-template
 
 .. _`open a ticket`: https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
-.. _`signs up for the beta`: https://pythonpackages.com/signup
+.. _`signed up for the beta`: https://pythonpackages.com/signup

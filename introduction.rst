@@ -20,11 +20,11 @@ Step 1: Access
 Step 2: Add package slot and select repository
 ----------------------------------------------
 
-* With the free plan, you have access to a single package slot. You can use this slot to select any repository in your GitHub account.
+- With the free plan, you have access to a single package slot. You can use this slot to select any repository in your GitHub account.
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/crashcourse2.png
 
-* Now select a repository that contains a Python package you would like to release.
+- Now select a repository that contains a Python package you would like to release.
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/crashcourse2-1.png
 

@@ -2,7 +2,7 @@
 Documentation
 =============
 
-pythonpackages.com helps Python programmers package and release their software with only a few clicks.
+pythonpackages.com helps Python programmers package and release their software with just a few clicks.
 
 .. toctree::
    :maxdepth: 1

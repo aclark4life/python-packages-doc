@@ -2,12 +2,12 @@
 Documentation
 =============
 
-pythonpackages.com helps busy Python programmers package and release their software with only a few clicks.
+pythonpackages.com helps Python programmers package and release their software with only a few clicks.
 
 .. toctree::
    :maxdepth: 1
 
-   crashcourse
+   introduction
    features/features
    privacy
    tos

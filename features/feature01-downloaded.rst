@@ -1,8 +1,7 @@
+Display number of downloads
+---------------------------
 
-Number of times downloaded
---------------------------
-
-In its simplest form, `pythonpackages.com`_ allows you to enter a Python
+In its simplest form, `pythonpackages.com`_ allows signed-in users to enter a Python
 package name
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/feature01-downloaded-00.png

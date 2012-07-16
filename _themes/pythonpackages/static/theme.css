@@ -538,3 +538,10 @@ span.eqno {
         display: none;
     }
 }
+
+/* pythonpackages */
+
+.footer {
+    color: #555555;
+    margin-bottom: 0;
+}

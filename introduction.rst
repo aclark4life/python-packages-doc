@@ -31,7 +31,9 @@ Step 2: Add package slot and select repository
 Step 3: Test release
 --------------------
 
-- Warning: there is no magic yet. In addition to selecting a valid package, you should add a `MANIFEST.in file`_ if you don't have one already. pythonpackages.com does not know about any version control integration you may be using locally.
+.. Warning:: There is no VCS integration
+
+- In addition to selecting a valid package, you should add a `MANIFEST.in file`_ if you don't have one already. pythonpackages.com does not know about any version control integration you may be using locally.
 
 - Send the release to the test index server with the "Test release" button. You should see:
 

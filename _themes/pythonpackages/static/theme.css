@@ -545,3 +545,8 @@ span.eqno {
     color: #555555;
     padding: 1em;
 }
+
+html body div.related ul li {
+    color: white;
+    padding: 1em;
+}

@@ -41,7 +41,7 @@ Please report any issues you encounter here:
 
 - https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
-Thank you for using the beta release features. Once you feel comfortable using the system, you are welcome to release your packages to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub via your last commit. A lot more features and task automation are being planned, but first we need your help to test and stablize the beta release.
+Thank you for using the beta release features. Once you feel comfortable using the system, you are welcome to release your packages to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub via your last commit.
 
 .. _`MANIFEST.in file`: http://docs.python.org/distutils/sourcedist.html#the-manifest-in-template
 

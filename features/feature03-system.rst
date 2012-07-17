@@ -4,8 +4,7 @@
 Package featuring
 -----------------
 
-The process of entering a package name on `pythonpackages.com`_ causes it to be displayed
-in a list of recent entries, effectively featuring it.
+The process of entering a package name on `pythonpackages.com`_ causes it to be displayed in a list of recent entries, effectively featuring it. You must be signed in to feature packages.
 
 E.g.:
 

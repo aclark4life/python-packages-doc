@@ -29,7 +29,7 @@ Step 3: Select repository
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro3.png
 
-Step 3: Test release
+Step 4: Test release
 --------------------
 
 .. Warning:: There is no VCS integration

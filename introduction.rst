@@ -2,7 +2,7 @@
 Introduction
 ============
 
-Welcome. Please follow these steps to start using the pythonpackages.com beta release features.
+Welcome. Please follow these steps to start testing the pythonpackages.com beta release features.
 
 Step 1: Access
 --------------
@@ -15,12 +15,15 @@ Step 1: Access
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro.png
 
-Step 2: Add package slot and select repository
-----------------------------------------------
+Step 2: Add package slot
+------------------------
 
 - With the free plan, you have access to a single package slot. You can use this slot to select any repository in your GitHub account.
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro2.png
+
+Step 3: Select repository
+-------------------------
 
 - Now select a repository that contains a Python package you would like to release.
 

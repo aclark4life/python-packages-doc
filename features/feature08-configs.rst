@@ -16,16 +16,16 @@ Contents:
    :maxdepth: 1
    :glob:
 
-   examples/ex1-jenkins
-   examples/ex2-apache
-   examples/ex3-bluebream
-   examples/ex4-django
-   examples/ex5-plone
-   examples/ex6-wordpress
-   examples/ex7-getpaid
-   examples/ex8-diazo
-   examples/ex9-funnelweb
-   examples/ex10-plone
+   hosted-configs/ex1-jenkins
+   hosted-configs/ex2-apache
+   hosted-configs/ex3-bluebream
+   hosted-configs/ex4-django
+   hosted-configs/ex5-plone
+   hosted-configs/ex6-wordpress
+   hosted-configs/ex7-getpaid
+   hosted-configs/ex8-diazo
+   hosted-configs/ex9-funnelweb
+   hosted-configs/ex10-plone
 
 .. include:: disqus.html
 

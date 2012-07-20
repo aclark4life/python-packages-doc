@@ -4,3 +4,7 @@
 .sphinxsidebar {
     float: right;
 }
+.footer {
+    color: #555555;
+    margin-left: 20px;
+}

@@ -3,13 +3,7 @@
 Example #4 - Hello Django
 =========================
 
-In this example, we configure a "hello world" application for your
-Django-ing pleasure.
-
-``Django`` with "hello world" app
----------------------------------
-
-You want to take ``Django`` for a spin, but you don't know much about it::
+In this example, we configure a "hello world" application for your Django-ing pleasure. You want to take ``Django`` for a spin, but you don't know much about it::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

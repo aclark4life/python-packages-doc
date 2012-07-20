@@ -3,12 +3,7 @@
 Example #7 - PloneGetPaid
 =========================
 
-E-commerce platform for Plone: getpaid.
-
-``getpaid`` for Plone
----------------------
-
-You want to try ``getpaid`` for Plone::
+E-commerce platform for Plone: getpaid. You want to try ``getpaid`` for Plone::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

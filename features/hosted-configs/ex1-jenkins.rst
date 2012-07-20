@@ -3,19 +3,7 @@
 Example #1 - Jenkins
 ====================
 
-That was along way to go explain the following: we have some ready made
-configuration files available for you to use with ``buildout`` (and ``pip``,
-coming soon).
-
-Continous integration with ``Jenkins``
---------------------------------------
-
-You are developing some Python software and you would like to begin automated,
-continuous integration testing. You know that in production you may do
-something completely different to meet your continuous integration needs,
-but for now you just want something quick and dirty to get started.
-``java`` has been installed already, by your operating
-system's package manager. You type::
+You are developing some Python software and you would like to begin automated, continuous integration testing. You know that in production you may do something completely different to meet your continuous integration needs, but for now you just want something quick and dirty to get started.  ``java`` has been installed already, by your operating system's package manager. You type::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

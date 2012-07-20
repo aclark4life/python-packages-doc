@@ -3,11 +3,6 @@
 Example #10 - Plone
 ===================
 
-The award-winning, Python-based, Plone CMS.
-
-Installation
-------------
-
 You are a Python programmer and you want to take ``Plone`` for a spin::
 
     $ virtualenv-2.7 .

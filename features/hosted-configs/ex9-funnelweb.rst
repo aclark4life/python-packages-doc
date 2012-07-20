@@ -3,13 +3,7 @@
 Example #9 - funnelweb
 ======================
 
-Easily import content into the award-winning, Python-based, Plone CMS.
-
-
-Import content to ``Plone`` with funnelweb
-------------------------------------------
-
-You want to import your non-Plone website content into ``Plone``::
+Easily import content into the award-winning, Python-based, Plone CMS. You want to import your non-Plone website content into ``Plone``::
 
     $ virtualenv-2.6 .
     $ bin/pip install zc.buildout
@@ -23,7 +17,6 @@ Edit the contents of **buildout.cfg** to contain *only*::
 
     [funnelweb]
     recipe = funnelweb
-    
 
 Then run::
 

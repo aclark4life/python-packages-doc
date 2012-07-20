@@ -3,12 +3,7 @@
 Example #8 - Diazo
 ==================
 
-How to theme the award-winning, Python-based, Plone CMS.
-
-``Diazo`` theming in Plone
---------------------------
-
-You want to take the new ``Diazo`` theming engine for ``Plone`` for a spin.
+How to theme the award-winning, Python-based, Plone CMS. You want to take the new ``Diazo`` theming engine for ``Plone`` for a spin.
 
 Part I: Setting up Plone
 ~~~~~~~~~~~~~~~~~~~~~~~~

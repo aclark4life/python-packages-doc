@@ -3,12 +3,7 @@
 Example #5 - WSGI-powered Plone
 ===============================
 
-The award-winning, Python-based, Plone CMS.
-
-WSGI-powered ``Plone`` setup
-----------------------------
-
-You want to take a WSGI-powered ``Plone`` for a spin::
+The award-winning, Python-based, Plone CMS. You want to take a WSGI-powered ``Plone`` for a spin::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

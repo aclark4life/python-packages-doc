@@ -3,13 +3,7 @@
 Example #6 - Wordpress
 ======================
 
-The award-winning, PHP-based blogging software, Wordpress.
-
-``Wordpress`` installation
---------------------------
-
-You want to download and install Wordpress and keep it up to date with only a
-few commands:: 
+The award-winning, PHP-based blogging software, Wordpress. You want to download and install Wordpress and keep it up to date with only a few commands::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

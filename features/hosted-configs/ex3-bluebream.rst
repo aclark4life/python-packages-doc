@@ -3,14 +3,8 @@
 Example #3 - Bluebream
 ======================
 
-Formerly "Zope 3 application server".
-
-``Bluebream`` installation
---------------------------
-
-You have heard that the Zope 3 application server, the successor to the world famous
-``Zope2`` application server is now called ``Bluebream`` and you want to try it
-out::
+Formerly "Zope 3 application server". You have heard that the Zope 3 application server, the successor to the world famous
+``Zope2`` application server is now called ``Bluebream`` and you want to try it out::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

@@ -3,12 +3,7 @@
 Example #2 - Apache + mod_wsgi
 ==============================
 
-You want to understand how to set up your WSGI application under mod_wsgi.
-
-``Apache`` with "hello world" WSGI app
---------------------------------------
-
-You decide to run the simplest possible application locally in order to see how it works::
+You want to understand how to set up your WSGI application under mod_wsgi. You decide to run the simplest possible application locally in order to see how it works::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

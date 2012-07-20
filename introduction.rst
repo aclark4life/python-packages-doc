@@ -2,16 +2,16 @@
 Introduction
 ============
 
-Welcome. Please follow the steps in this guide to get started using pythonpackages.com beta release features.
+Welcome. Please follow these steps to start using the pythonpackages.com beta release features.
 
 Step 1: Access
 --------------
 
-- Sign up for the beta if you haven't already.
+- Sign up for the beta, if you haven't already: http://pythonpackages.com/signup.
 
-- Login with your GitHub Account.
+- Sign in to pythonpackages.com with your GitHub account.
 
-- You should be redirected to your dashboard, else select Username -> Dashboard. You should see:
+- You should be redirected to your dashboard, where you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro.png
 

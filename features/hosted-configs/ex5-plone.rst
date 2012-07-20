@@ -38,7 +38,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/ex5-plone-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex5-plone-00.png
    :width: 294
    :height: 187
 

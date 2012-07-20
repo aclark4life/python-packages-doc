@@ -540,13 +540,3 @@ span.eqno {
 }
 
 /* pythonpackages */
-
-.footer {
-    color: #555555;
-    padding: 1em;
-    margin: 0;
-}
-
-html body div.related ul li {
-    display: none;
-}

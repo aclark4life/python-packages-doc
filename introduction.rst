@@ -2,7 +2,7 @@
 Introduction
 ============
 
-Welcome. Please follow the steps below to get started testing beta release features.
+Welcome. Please follow the steps below to get started testing our beta release features.
 
 Step 1: Get access
 ------------------
@@ -27,7 +27,7 @@ Step 2: Add package slot
 Step 3: Select repository
 -------------------------
 
-.. Warning:: There is no version control system integration. In addition to selecting a valid package, you must add a properly configured `MANIFEST.in file`_ if you have not done so already. pythonpackages.com does not know about version control integration e.g. setuptools-git. Without a properly configured `MANIFEST.in file` you will most likely  produce a `brown bag` release.
+.. Warning:: There is no version control system integration. In addition to selecting a valid package, you must add a properly configured `MANIFEST.in file`_ (if you haven't already). pythonpackages.com does not know about version control integration e.g. setuptools-git and without a properly configured `MANIFEST.in file`_ you will likely create a `brown bag`_ release.
   :class: alert alert-warning 
 
 - Now select a repository that contains a Python package you would like to test and release.

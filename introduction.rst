@@ -25,7 +25,7 @@ Step 2: Add package slot
 Step 3: Select repository
 -------------------------
 
-.. Warning:: The package you select must contain a properly configured `MANIFEST.in file`_. pythonpackages.com does not know about version control integration e.g. setuptools-git so without a properly configured MANIFEST.in file you may create a `brown bag`_ release.
+.. Warning:: pythonpackages.com does not know about any version control system integration tools you may be using e.g. `setuptools-git`_, so the package you select must contain a properly configured `MANIFEST.in file`_ otherwise you may inadvertently create a `brown bag`_ release.
   :class: alert alert-warning 
 
 - Now select a repository that contains a Python package you would like to test and release.
@@ -59,3 +59,5 @@ Thank you for testing the beta release features. Once you feel comfortable, plea
 .. _`test index server`: http://index.pythonpackages.com
 
 .. _`brown bag`: http://guide.python-distribute.org/specification.html#pre-releases
+
+.. _`setuptools-git`: http://pythonpackages.com/package/setuptools-git

@@ -21,6 +21,4 @@ Then run::
 This will install the Wordpress files in ``parts/wordress`` at which point you can
 configure your PHP-powered Apache to use them.
 
-Happy times!
-
 .. include:: disqus.html

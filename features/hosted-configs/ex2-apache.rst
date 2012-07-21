@@ -37,6 +37,4 @@ And you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex2-apache-00.png
 
-Happy times!
-
 .. include:: disqus.html

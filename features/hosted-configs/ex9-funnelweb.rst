@@ -71,6 +71,4 @@ And in Plone:
    :width: 345
    :height: 342.5
 
-Happy times!
-
 .. include:: disqus.html

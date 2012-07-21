@@ -38,6 +38,4 @@ And you should see:
     :width: 336.5
     :height: 240.5
 
-Happy times!
-
 .. include:: disqus.html

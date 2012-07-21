@@ -43,6 +43,4 @@ Click on "Create a new plone site" and should see:
    :width: 365.5
    :height: 353
 
-Happy times!
-
 .. include:: disqus.html

@@ -69,6 +69,4 @@ Everywhere else you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex4-django-01.png
 
-Happy times!
-
 .. include:: disqus.html

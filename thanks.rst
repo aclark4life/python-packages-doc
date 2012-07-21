@@ -16,7 +16,7 @@ pythonpackages.com would like to thank:
 - Erik Rose and James Socol for early feedback and encouragement.
 - Free CSS Themes and Twitter Bootstrap folks.
 - Freenode #pyramid folks for Pyramid help, especially Michael Merickel (AKA raydeo).
-- GitHub folks, for the API on which many pythonpackages.com features are built.
+- GitHub folks, for API v3 on which many pythonpackages.com features are based.
 - Igor Stroh for slogan #3: "Nice Mashup".
 - Joshua Ginsberg for redis help.
 - Kenneth Reitz for requests.

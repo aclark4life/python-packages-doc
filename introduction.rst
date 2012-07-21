@@ -2,7 +2,7 @@
 Introduction
 ============
 
-Welcome. Please follow these steps to get started testing the pythonpackages.com beta release features.
+Welcome. Please follow these steps to get started testing the beta release features.
 
 Step 1: Access
 --------------

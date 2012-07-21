@@ -13,21 +13,24 @@ Step 1: Access
 
 - You should be redirected to your dashboard, where you should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction.png
+  :class: thumbnail
 
 Step 2: Add package slot
 ------------------------
 
 - With the free plan, you have access to a single package slot. You can use this slot to select any repository in your GitHub account.
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro2.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction2.png
+  :class: thumbnail
 
 Step 3: Select repository
 -------------------------
 
 - Now select a repository that contains a Python package you would like to release.
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro3.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction3.png
+  :class: thumbnail
 
 Step 4: Test release
 --------------------
@@ -38,7 +41,8 @@ Step 4: Test release
 
 - Send the release to the test index server with the "Test release" button. You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/intro4.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction4.png
+  :class: thumbnail
 
 Please report any issues you encounter here:
 

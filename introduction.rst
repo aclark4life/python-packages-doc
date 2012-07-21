@@ -19,7 +19,7 @@ Step 1: Access
 Step 2: Add package slot
 ------------------------
 
-- With the free plan you have access to a single package slot, which you may use to select a repository from your personal GitHub account. (You may select/unselect a single repository an  unlimited number of times. However if you use the service regularly for more than a single package, and/or you need access to a GitHub organization repository, please consider purchasing one of the `paid plans`_.)
+- With the free plan you have access to a single package slot, which you may use to select a repository from your personal GitHub account. (You may select/unselect a single repository an  unlimited number of times. However, if you use the service regularly for more than a single package and/or you need access to a GitHub organization repository, please consider purchasing one of the `paid plans`_.)
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction2.png
   :class: thumbnail

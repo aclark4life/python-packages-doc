@@ -7,7 +7,5 @@ pythonpackages.com helps Python programmers package and release their software w
    :maxdepth: 2
 
    introduction
-   features/features
-   thanks
 
 .. _`pythonpackages.com`: http://pythonpackages.com

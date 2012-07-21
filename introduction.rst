@@ -17,7 +17,7 @@ Step 1: Get access
 Step 2: Add package slot
 ------------------------
 
-- The free plan provides access to a single package slot, which you may use to select any repository from your personal GitHub account. (You may select/unselect a single repository an  unlimited number of times. However, if you use the service regularly to manage more than a single package and/or you need access to an Organization repository, please consider purchasing one of the `paid plans`_.)
+- The free plan provides access to a single package slot, which you may use to select any repository from your personal GitHub account. (You may select/unselect a single repository an  unlimited number of times. However, if you use the service regularly to manage more than a single package and/or you want to manage an Organization's repository, please consider purchasing one of the `paid plans`_.)
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction2.png
   :class: thumbnail
@@ -25,7 +25,7 @@ Step 2: Add package slot
 Step 3: Select repository
 -------------------------
 
-.. Warning:: There is no version control system integration. In addition to selecting a valid package, you must add a properly configured `MANIFEST.in file`_ (if you haven't already). pythonpackages.com does not know about version control integration e.g. setuptools-git and without a properly configured `MANIFEST.in file`_ you will likely create a `brown bag`_ release.
+.. Warning:: There is no version control system integration. In addition to selecting a valid package, you must add a properly configured `MANIFEST.in file`_ (if you haven't already). pythonpackages.com does not know about version control integration e.g. setuptools-git and without a properly configured `MANIFEST.in file`_ you may create a `brown bag`_ release.
   :class: alert alert-warning 
 
 - Now select a repository that contains a Python package you would like to test and release.

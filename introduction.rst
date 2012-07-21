@@ -27,7 +27,7 @@ Step 2: Add package slot
 Step 3: Select repository
 -------------------------
 
-- Now select a repository that contains a Python package you would like to release.
+- Now select a repository that contains the Python package you would like to release.
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction3.png
   :class: thumbnail
@@ -35,10 +35,10 @@ Step 3: Select repository
 Step 4: Test release
 --------------------
 
-.. Warning:: There is no VCS integration
+.. Warning:: There is no version control system integration
   :class: alert alert-warning
 
-- In addition to selecting a valid package, you should add a `MANIFEST.in file`_ if you don't have one already. pythonpackages.com does not know about any version control integration you may be using locally.
+- In addition to selecting a valid package, you should add a `MANIFEST.in file`_ if you have not done so already. pythonpackages.com does not know about any version control integration you may be using locally e.g. setuptools-git.
 
 - Send the release to the test index server with the "Test release" button. You should see:
 

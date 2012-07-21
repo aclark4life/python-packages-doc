@@ -36,6 +36,7 @@ Step 4: Test release
 --------------------
 
 .. Warning:: There is no VCS integration
+  :class: alert alert-warning
 
 - In addition to selecting a valid package, you should add a `MANIFEST.in file`_ if you don't have one already. pythonpackages.com does not know about any version control integration you may be using locally.
 

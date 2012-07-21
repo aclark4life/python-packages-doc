@@ -18,13 +18,13 @@ pythonpackages.com would like to thank:
 - Freenode #pyramid folks for Pyramid help, especially Michael Merickel (AKA raydeo).
 - GitHub folks, for API v3 on which many pythonpackages.com beta release features are based.
 - Igor Stroh for slogan #3: "Nice Mashup".
-- Joshua Ginsberg for redis help.
+- Joshua Ginsberg for help with Redis.
 - Kenneth Reitz for requests.
 - Marcin Lulek for errormator.
 - Matt Bowen for general encouragement.
 - Readthedocs.org for being awesome (and for hosting our documentation).
 - Rob Cakebread for yolk.
-- Salvatore Sanfilippo for redis.
+- Salvatore Sanfilippo for Redis.
 - Sean "nutjob" Kelly for early feedback, encouragement and for featuring "puke" and "Jug" when no one else would.
 - Stefan Holek for jarn.mkrelease.
 - The Fellowship of the Packaging, especially Distutils2 folks.

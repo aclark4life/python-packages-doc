@@ -2,7 +2,7 @@
 Introduction
 ============
 
-Welcome. Please follow the steps below to get started testing the beta release features.
+Welcome. Please follow the steps below to test the beta release features.
 
 Step 1: Get access
 ------------------

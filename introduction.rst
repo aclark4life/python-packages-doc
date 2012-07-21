@@ -41,8 +41,8 @@ Step 4: Test release
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction4.png
   :class: thumbnail
 
-Step 5: Have fun and profit
----------------------------
+Step 5: Have fun
+----------------
 
 Thank you for testing the beta release features. Once you feel comfortable, please release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. Please report any issues you may encounter here:
 

@@ -25,7 +25,7 @@ Step 2: Add package slot
 Step 3: Select repository
 -------------------------
 
-.. Warning:: pythonpackages.com does not know about any version control system integration tools you may be using e.g. `setuptools-git`_, so the package you select must contain a properly configured `MANIFEST.in file`_ otherwise you may inadvertently create a `brown bag`_ release.
+.. Warning:: pythonpackages.com does not know about any version control system integration tools you may be using locally e.g. `setuptools-git`_, so the package you select must contain a properly configured `MANIFEST.in file`_, otherwise you may inadvertently create a `brown bag`_ release.
   :class: alert alert-warning 
 
 - Now select a repository that contains a Python package you would like to test and release.

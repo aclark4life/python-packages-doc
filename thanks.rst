@@ -5,13 +5,13 @@ Thanks
 pythonpackages.com would like to thank:
 
 - Andreas Jung for zopyx.trashfinder.
-- Anyone I forget, or unintentionally omit: thank you.
-- Bitbucket folks.
+- Anyone we forget, or unintentionally omit from this list: thank you.
+- Bitbucket folks, for free private repos.
 - Catalog-sig folks, especially Richard Jones and Martin von Löwis.
 - Chris McDonough for Pyramid.
 - DISQUS folks.
 - Danny Greenfeld and Audrey Roy for early feedback, encouragement and the opencomparison.org sites.
-- David Glick for PloneSoftwareCenter code.
+- David Glick for the code on which vanity was based.
 - Donald Stufft for crate.io.
 - Erik Rose and James Socol for early feedback and encouragement.
 - Free CSS Themes and Twitter Bootstrap folks.

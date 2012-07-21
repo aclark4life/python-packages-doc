@@ -2,16 +2,14 @@
 Introduction
 ============
 
-Welcome. Please follow the steps below to get started testing our beta release features.
+Welcome. Please follow the steps below to get started testing the beta release features.
 
 Step 1: Get access
 ------------------
 
 - Sign up for the beta, if you haven't already: http://pythonpackages.com/signup.
-
 - Sign in to pythonpackages.com with your GitHub account.
-
-- You should be redirected to your dashboard, where you should see:
+- You should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction.png
   :class: thumbnail
@@ -38,19 +36,17 @@ Step 3: Select repository
 Step 4: Test release
 --------------------
 
-- Now send the release to the `test index server`_ with the "Test release" button. You should see:
+- Now press the "Test release" button to send your package to the `test index server`_. You should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction4.png
   :class: thumbnail
 
-Please report any issues you may encounter here:
-
-- https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
-
 Step 5: Have fun and profit
 ---------------------------
 
-Thank you for testing the beta release features. Once you feel comfortable, please release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit.
+Thank you for testing the beta release features. Once you feel comfortable, please release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. Please report any issues you may encounter here:
+
+- https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
 .. _`MANIFEST.in file`: http://docs.python.org/distutils/sourcedist.html#the-manifest-in-template
 

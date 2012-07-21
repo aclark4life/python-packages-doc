@@ -4,8 +4,8 @@ Introduction
 
 Welcome. Please follow the steps below to get started testing beta release features.
 
-Step 1: Access
---------------
+Step 1: Get access
+------------------
 
 - Sign up for the beta, if you haven't already: http://pythonpackages.com/signup.
 

@@ -5,7 +5,7 @@ Thanks
 pythonpackages.com would like to thank:
 
 - Andreas Jung for zopyx.trashfinder.
-- Anyone we forget, or unintentionally omit from this list: thank you.
+- Anyone we forgot, or unintentionally omitted from this list: thank you.
 - Bitbucket folks, for free private repos.
 - Catalog-sig folks, especially Richard Jones and Martin von Löwis.
 - Chris McDonough for Pyramid.

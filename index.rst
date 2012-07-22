@@ -8,5 +8,6 @@ pythonpackages.com helps Python programmers package and release their software w
 
    introduction
    basic-features/index
+   hosted-configs/index
 
 .. _`pythonpackages.com`: http://pythonpackages.com

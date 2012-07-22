@@ -13,5 +13,6 @@ These features were introduced and developed in the alpha release, from October 
    featured-count
    wall-of-praise
    package-quality
+   package-activity
 
 .. include:: disqus.html

@@ -47,9 +47,10 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex5-plone-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo1.png
    :width: 294
    :height: 187
+   :class: thumbnail
 
 Create a new Plone site then move on to Part II.
 
@@ -65,15 +66,17 @@ Now CTRL-C Plone and do the following::
 Now restart Plone. Click on `Site Setup -> Diazo theme -> Advanced settings`. Make your
 fields look like this:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex8-diazo-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo2.png
    :width: 326
    :height: 314.5
+   :class: thumbnail
 
 Save the form. Select `Basic settings`. Select `Other` and enable your theme:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex8-diazo-01.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo3.png
    :width: 373
    :height: 336.5
+   :class: thumbnail
 
 Return to the site root. You should see… no change! One more step. Edit
 index.html to contain::
@@ -101,9 +104,10 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex8-diazo-02.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo4.png
    :width: 346
    :height: 335
+   :class: thumbnail
 
 Conclusion
 ~~~~~~~~~~

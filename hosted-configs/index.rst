@@ -12,6 +12,7 @@ In addition to its basic features, ``pythonpackages.com`` provides a set of shar
    apache
    bluebream
    plone
+   plone-getpaid
    plone-wsgi
 
 .. include:: disqus.html

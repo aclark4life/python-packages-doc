@@ -4,8 +4,8 @@ Introduction
 
 Welcome. Follow these steps to test the beta release features.
 
-Step 1: Get access
-------------------
+Get access
+----------
 
 - Sign up for the beta, if you haven't already: http://pythonpackages.com/signup.
 - Sign in to pythonpackages.com with your GitHub account.
@@ -14,16 +14,16 @@ Step 1: Get access
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction1.png
   :class: thumbnail
 
-Step 2: Add package slot
-------------------------
+Add package slot
+----------------
 
 - The free plan provides access to a single package slot, which you may use to select any repository from your personal GitHub account. (You may select/unselect a single repository an  unlimited number of times. However, if you use the service regularly to manage more than a single package and/or you want to manage an Organization's repository, please consider purchasing one of the `paid plans`_.)
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction2.png
   :class: thumbnail
 
-Step 3: Select repository
--------------------------
+Select repository
+-----------------
 
 .. Warning:: pythonpackages.com does not know about any version control system integration tools you may be using locally e.g. `setuptools-git`_, so the package you select must contain a properly configured `MANIFEST.in file`_, otherwise you may inadvertently create a `brown bag`_ release.
   :class: alert alert-warning 
@@ -33,21 +33,21 @@ Step 3: Select repository
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction3.png
   :class: thumbnail
 
-Step 4: Test release
---------------------
+Test release
+------------
 
 - Now press the "Test release" button to send your package to the `test index server`_. You should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction4.png
   :class: thumbnail
 
-Step 5: Release
----------------
+Release
+-------
 
 Once you feel comfortable, please release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. 
 
-Step 6: Report bugs
--------------------
+Report bugs
+-----------
 
 Thank you for testing the beta release features. Please report any issues you may encounter here:
 

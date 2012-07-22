@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #2 - Apache + mod_wsgi
-==============================
+Apache + mod_wsgi
+=================
 
 You want to understand how to set up your WSGI application under mod_wsgi. You decide to run the simplest possible application locally in order to see how it works::
 

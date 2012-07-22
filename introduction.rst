@@ -11,7 +11,7 @@ Step 1: Get access
 - Sign in to pythonpackages.com with your GitHub account.
 - You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction1.png
   :class: thumbnail
 
 Step 2: Add package slot

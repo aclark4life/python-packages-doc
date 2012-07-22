@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-WSGI-powered Plone
-==================
+Plone + WSGI
+============
 
 The award-winning, Python-based, Plone CMS. You want to take a WSGI-powered ``Plone`` for a spin::
 
@@ -33,7 +33,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/plone1.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone1.png
    :width: 294
    :height: 187
    :class: thumbnail

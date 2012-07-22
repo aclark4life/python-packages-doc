@@ -10,6 +10,7 @@ In addition to its basic features, ``pythonpackages.com`` provides a set of shar
    :glob:
 
    apache
+   bluebream
    plone
    plone-wsgi
 

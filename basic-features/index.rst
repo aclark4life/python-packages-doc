@@ -7,5 +7,6 @@ Basic features
    :glob:
 
    download-count
+   featured-count
 
 .. include:: disqus.html

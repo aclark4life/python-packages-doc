@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #10 - Plone
-===================
+Plone
+=====
 
 You are a Python programmer and you want to take ``Plone`` for a spin::
 
@@ -39,7 +39,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/plone1.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone1.png
    :width: 294
    :height: 187
    :class: thumbnail

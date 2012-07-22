@@ -3,16 +3,18 @@
 Hosted configuration files
 ==========================
 
-In addition to its core features, ``pythonpackages.com`` provides a set of shared, extendable configuration files for building Python-based and other software.
+In addition to its basic features, ``pythonpackages.com`` provides a set of shared, extendable configuration files for building Python-based and other software with `Buildout`
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
+   apache
    plone
+   plone-wsgi
 
 .. include:: disqus.html
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 
-.. _`zc.buildout`: http://pythonpackages.com/packages/zc.buildout
+.. _`Buildout`: http://buildout.org

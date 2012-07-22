@@ -35,6 +35,7 @@ Open the following URL in your web browser:
 
 And you should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex2-apache-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/apache1.png
+   :class: thumbnail
 
 .. include:: disqus.html

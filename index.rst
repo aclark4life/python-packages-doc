@@ -7,6 +7,6 @@ pythonpackages.com helps Python programmers package and release their software w
    :maxdepth: 2
 
    introduction
-   basic-features
+   basic-features/index
 
 .. _`pythonpackages.com`: http://pythonpackages.com

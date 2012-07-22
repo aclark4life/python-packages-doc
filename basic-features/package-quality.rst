@@ -7,10 +7,12 @@ Package quality
 If your package meets the acceptable criteria you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/basic-features/package-quality2.png
+   :class: thumbnail
 
 Otherwise you may see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/basic-features/package-quality1.png
+   :class: thumbnail
 
 This functionality is provided by a library called `pypi.trashfinder`_, which is
 a pythonpackages.com-specific fork of `zopyx.trashfinder`_.

@@ -8,7 +8,7 @@ The process of entering a package name on `pythonpackages.com`_ causes it to be 
 
 E.g.:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/feature03-system-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/basic-features/package-featuring1.png
 
 You can also feature packages via the ``Feature it`` or ``Feature package`` buttons.
 

@@ -9,6 +9,7 @@ These features were introduced and developed in the alpha release, from October 
    :glob:
 
    download-count
+   package-featuring
    featured-count
 
 .. include:: disqus.html

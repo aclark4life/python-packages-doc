@@ -11,5 +11,6 @@ These features were introduced and developed in the alpha release, from October 
    download-count
    package-featuring
    featured-count
+   wall-of-praise
 
 .. include:: disqus.html

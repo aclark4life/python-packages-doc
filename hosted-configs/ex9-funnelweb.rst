@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #9 - funnelweb
-======================
+Plone + funnelweb
+=================
 
 Easily import content into the award-winning, Python-based, Plone CMS. You want to import your non-Plone website content into ``Plone``::
 
@@ -71,4 +71,4 @@ And in Plone:
    :width: 345
    :height: 342.5
 
-.. include:: disqus.html
+.. include:: ../disqus.html

@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #8 - Diazo
-==================
+Plone + Diazo
+=============
 
 How to theme the award-winning, Python-based, Plone CMS. You want to take the new ``Diazo`` theming engine for ``Plone`` for a spin.
 
@@ -115,4 +115,4 @@ Conclusion
 This, along with http://diazo.org, should be all any web-savvy person (who does not know any
 Plone) needs to get started theming Plone.
 
-.. include:: disqus.html
+.. include:: ../disqus.html

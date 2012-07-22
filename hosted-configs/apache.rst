@@ -38,4 +38,4 @@ And you should see:
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/apache1.png
    :class: thumbnail
 
-.. include:: disqus.html
+.. include:: ../disqus.html

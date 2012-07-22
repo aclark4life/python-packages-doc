@@ -16,7 +16,7 @@ In addition to its basic features, ``pythonpackages.com`` provides a set of shar
    plone-getpaid
    plone-wsgi
 
-.. include:: disqus.html
+.. include:: ../disqus.html
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 

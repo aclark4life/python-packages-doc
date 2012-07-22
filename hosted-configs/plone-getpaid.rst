@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #7 - PloneGetPaid
-=========================
+Plone + PloneGetPaid
+====================
 
 E-commerce platform for Plone: getpaid. You want to try ``getpaid`` for Plone::
 
@@ -44,4 +44,4 @@ Click on "Create a new plone site" and should see:
    :height: 353
    :class: thumbnail
 
-.. include:: disqus.html
+.. include:: ../disqus.html

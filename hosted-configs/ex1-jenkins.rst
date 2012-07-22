@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #1 - Jenkins
-====================
+Jenkins
+=======
 
 You are developing some Python software and you would like to begin automated, continuous integration testing. You know that in production you may do something completely different to meet your continuous integration needs, but for now you just want something quick and dirty to get started.  ``java`` has been installed already, by your operating system's package manager. You type::
 
@@ -38,4 +38,4 @@ And you should see:
     :width: 336.5
     :height: 240.5
 
-.. include:: disqus.html
+.. include:: ../disqus.html

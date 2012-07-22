@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #4 - Hello Django
-=========================
+Hello Django
+============
 
 In this example, we configure a "hello world" application for your Django-ing pleasure. You want to take ``Django`` for a spin, but you don't know much about it::
 
@@ -69,4 +69,4 @@ Everywhere else you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex4-django-01.png
 
-.. include:: disqus.html
+.. include:: ../disqus.html

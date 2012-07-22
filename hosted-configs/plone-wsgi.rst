@@ -38,4 +38,4 @@ You should see:
    :height: 187
    :class: thumbnail
 
-.. include:: disqus.html
+.. include:: ../disqus.html

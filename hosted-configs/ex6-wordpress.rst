@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Example #6 - Wordpress
-======================
+Wordpress
+=========
 
 The award-winning, PHP-based blogging software, Wordpress. You want to download and install Wordpress and keep it up to date with only a few commands::
 
@@ -21,4 +21,4 @@ Then run::
 This will install the Wordpress files in ``parts/wordress`` at which point you can
 configure your PHP-powered Apache to use them.
 
-.. include:: disqus.html
+.. include:: ../disqus.html

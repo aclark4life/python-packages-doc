@@ -44,7 +44,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex5-plone-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone1.png
    :class: thumbnail
 
 Now create a Plone site and run::
@@ -67,7 +67,7 @@ You should see in the terminal::
 
 And in Plone:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex9-funnelweb-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/funnelweb1.png
    :class: thumbnail
 
 .. include:: ../disqus.html

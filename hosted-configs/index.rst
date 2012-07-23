@@ -11,11 +11,13 @@ In addition to its basic features, ``pythonpackages.com`` provides a set of shar
    apache
    bluebream
    django
+   jenkins
    plone
    plone-diazo
    plone-funnelweb
    plone-getpaid
    plone-wsgi
+   wordpress
 
 .. include:: ../disqus.html
 

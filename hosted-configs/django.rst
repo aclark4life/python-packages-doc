@@ -3,7 +3,7 @@
 Django
 ======
 
-In this example, we configure a "hello world" application for your Django-ing pleasure. You want to take ``Django`` for a spin, but you don't know much about it::
+In this example, we configure a "hello world" application for your Django-ing pleasure.
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

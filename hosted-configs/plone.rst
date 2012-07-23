@@ -1,4 +1,5 @@
-.. include:: note-about-build-section.rst
+.. Note:: `View config on GitHub`_
+  :class: alert alert-info
 
 Plone
 =====
@@ -43,3 +44,5 @@ You should see:
    :class: thumbnail
 
 .. include:: ../disqus.html
+
+.. _`View config`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x

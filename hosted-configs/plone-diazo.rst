@@ -1,4 +1,5 @@
-.. include:: note-about-build-section.rst
+.. Note:: `View config on GitHub`_
+  :class: alert alert-info
 
 Plone + Diazo
 =============
@@ -108,3 +109,5 @@ This, along with http://diazo.org, should be all any web-savvy person (who does 
 Plone) needs to get started theming Plone.
 
 .. include:: ../disqus.html
+
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x

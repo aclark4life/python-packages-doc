@@ -1,4 +1,5 @@
-.. include:: note-about-build-section.rst
+.. Note:: `View config on GitHub`_
+  :class: alert alert-info
 
 Wordpress
 =========
@@ -22,3 +23,5 @@ This will install the Wordpress files in ``parts/wordress`` at which point you c
 configure your PHP-powered Apache to use them.
 
 .. include:: ../disqus.html
+
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-wordpress/blob/master/3.4.x

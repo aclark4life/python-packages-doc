@@ -1,4 +1,5 @@
-.. include:: note-about-build-section.rst
+.. Note:: `View config on GitHub`_
+  :class: alert alert-info
 
 Plone + funnelweb
 =================
@@ -70,3 +71,5 @@ And in Plone:
    :class: thumbnail
 
 .. include:: ../disqus.html
+
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x

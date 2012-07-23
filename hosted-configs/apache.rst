@@ -1,9 +1,10 @@
-.. include:: note-about-build-section.rst
+.. Note:: `View config on GitHub`_
+  :class: alert alert-info
 
 Apache + mod_wsgi
 =================
 
-You want to understand how to set up your WSGI application under mod_wsgi. You decide to run the simplest possible application locally in order to see how it works::
+You want to understand how to set up your WSGI application with mod_wsgi. You decide to run the simplest possible application locally in order to see how it works::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout
@@ -39,3 +40,5 @@ And you should see:
    :class: thumbnail
 
 .. include:: ../disqus.html
+
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-apache-modwsgi/blob/master/2.2.x

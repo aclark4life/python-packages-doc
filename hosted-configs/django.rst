@@ -1,4 +1,5 @@
-.. include:: note-about-build-section.rst
+.. Note:: `View config on GitHub`_
+  :class: alert alert-info
 
 Django
 ======
@@ -71,3 +72,5 @@ Everywhere else you should see:
    :class: thumbnail
 
 .. include:: ../disqus.html
+
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-django/blob/master/1.4.x

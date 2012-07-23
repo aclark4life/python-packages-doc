@@ -1,4 +1,5 @@
-.. include:: note-about-build-section.rst
+.. Note:: `View config on GitHub`_
+  :class: alert alert-info
 
 Jenkins
 =======
@@ -38,3 +39,5 @@ And you should see:
    :class: thumbnail
 
 .. include:: ../disqus.html
+
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-jenkins/blob/master/1.464

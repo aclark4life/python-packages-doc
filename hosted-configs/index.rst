@@ -1,9 +1,8 @@
-.. include:: note-about-build-section.rst
 
 Hosted configuration files
 ==========================
 
-In addition to its basic features, ``pythonpackages.com`` provides a set of shared, extendable configuration files for building Python-based and other software with `Buildout`_
+In addition to its basic features, ``pythonpackages.com`` provides a set of shared, extendable configuration files for building Python-based and other software with `Buildout`_.
 
 .. toctree::
    :maxdepth: 1
@@ -14,6 +13,7 @@ In addition to its basic features, ``pythonpackages.com`` provides a set of shar
    django
    plone
    plone-diazo
+   plone-funnelweb
    plone-getpaid
    plone-wsgi
 

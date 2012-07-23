@@ -3,7 +3,7 @@
 Hosted configuration files
 ==========================
 
-In addition to its basic features, ``pythonpackages.com`` provides a set of shared, extendable configuration files for building Python-based and other software with `Buildout`
+In addition to its basic features, ``pythonpackages.com`` provides a set of shared, extendable configuration files for building Python-based and other software with `Buildout`_
 
 .. toctree::
    :maxdepth: 1

@@ -2,7 +2,7 @@
 Introduction
 ============
 
-Welcome. As of the beta release in early July 2012, pythonpackages.com offers features to Python programmers to help them package and release their software with just a few clicks. To test the beta release features, please follow the steps below:
+Welcome. pythonpackages.com helps Python programmers package and release their software with just a few clicks. To get started, please follow the steps below:
 
 Get access
 ----------

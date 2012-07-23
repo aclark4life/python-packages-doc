@@ -44,7 +44,7 @@ Test release
 Release
 -------
 
-Once you feel comfortable, please release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. You can also :ref:`create-packages`.
+Once you feel comfortable, please release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. You may also want to :ref:`create-packages`.
 
 Report bugs
 -----------

@@ -1,7 +1,7 @@
 .. include:: note-about-build-section.rst
 
-Hello Django
-============
+Django
+======
 
 In this example, we configure a "hello world" application for your Django-ing pleasure. You want to take ``Django`` for a spin, but you don't know much about it::
 

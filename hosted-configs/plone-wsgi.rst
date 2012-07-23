@@ -3,7 +3,7 @@
 Plone + WSGI
 ============
 
-The award-winning, Python-based, Plone CMS. You want to take a WSGI-powered ``Plone`` for a spin::
+You understand deploying Plone via WSGI is not yet fully supported (or functional), but you still want to take a WSGI-powered ``Plone`` for a spin::
 
     $ virtualenv-2.7 .
     $ bin/pip install zc.buildout

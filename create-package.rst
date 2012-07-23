@@ -11,7 +11,8 @@ Select template
 
 Sign in, select ``Create new package`` from the ``Manage packages`` section. Select a template and enter a package name, then submit via the ``Create`` button.
 
-.. Note:: If you have not entered them, you will be `prompted for your GitHub credentials`.
+.. Note:: If you have not entered them, you will be `prompted for your GitHub credentials`_.
+  :class: alert
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/create-package1.png
    :class: thumbnail

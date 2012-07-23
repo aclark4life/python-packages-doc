@@ -34,8 +34,6 @@ Open the following URL in your web browser:
 You should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone1.png
-   :width: 294
-   :height: 187
    :class: thumbnail
 
 .. include:: ../disqus.html

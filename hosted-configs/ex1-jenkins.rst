@@ -35,7 +35,6 @@ Open the following URL in your web browser:
 And you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex1-jenkins-00.png
-    :width: 336.5
-    :height: 240.5
+   :class: thumbnail
 
 .. include:: ../disqus.html

@@ -21,4 +21,4 @@ a pythonpackages.com-specific fork of `zopyx.trashfinder`_.
 .. _`pypi.trashfinder`: http://pythonpackages.com/package/pypi.trashfinder
 .. _`zopyx.trashfinder`: http://pythonpackages.com/package/zopyx.trashfinder
 
-.. include:: disqus.html
+.. include:: ../disqus.html

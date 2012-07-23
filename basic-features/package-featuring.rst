@@ -15,5 +15,5 @@ You can also feature packages via the ``Feature it`` or ``Feature package`` butt
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 
-.. include:: disqus.html
+.. include:: ../disqus.html
 

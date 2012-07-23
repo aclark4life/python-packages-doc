@@ -57,8 +57,6 @@ Open the following URL in your web browser:
 And you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/bluebream1.png
-   :width: 248
-   :height: 144
    :class: thumbnail
 
 .. include:: ../disqus.html

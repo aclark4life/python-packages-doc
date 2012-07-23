@@ -45,4 +45,4 @@ You should see:
 
 .. include:: ../disqus.html
 
-.. _`View config`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x

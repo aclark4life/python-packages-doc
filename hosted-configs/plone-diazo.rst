@@ -48,7 +48,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo1.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone1.png
    :class: thumbnail
 
 Create a new Plone site then move on to Part II.
@@ -65,12 +65,12 @@ Now CTRL-C Plone and do the following::
 Now restart Plone. Click on `Site Setup -> Diazo theme -> Advanced settings`. Make your
 fields look like this:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo2.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo1.png
    :class: thumbnail
 
 Save the form. Select `Basic settings`. Select `Other` and enable your theme:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo3.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo2.png
    :class: thumbnail
 
 Return to the site root. You should see… no change! One more step. Edit
@@ -99,7 +99,7 @@ Open the following URL in your web browser:
 
 You should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo4.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/plone-diazo3.png
    :class: thumbnail
 
 Conclusion

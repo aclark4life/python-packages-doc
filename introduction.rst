@@ -66,3 +66,5 @@ Thank you for testing the beta release features. Please report any issues you ma
 .. _`brown bag`: http://guide.python-distribute.org/specification.html#pre-releases
 
 .. _`setuptools-git`: http://pythonpackages.com/package/setuptools-git
+
+.. include:: disqus.html

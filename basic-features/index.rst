@@ -13,5 +13,3 @@ These features were introduced and developed in the alpha release, from October 
    wall-of-praise
    package-quality
    package-activity
-
-.. include:: ../disqus.html

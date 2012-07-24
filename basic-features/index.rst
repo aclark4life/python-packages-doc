@@ -14,4 +14,4 @@ These features were introduced and developed in the alpha release, from October 
    package-quality
    package-activity
 
-.. include:: disqus.html
+.. include:: ../disqus.html

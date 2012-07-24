@@ -35,7 +35,7 @@ Open the following URL in your web browser:
 
 And you should see:
 
-.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/features/hosted-configs/ex1-jenkins-00.png
+.. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/hosted-configs/jenkins1.png
    :class: thumbnail
 
 .. include:: ../disqus.html

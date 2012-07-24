@@ -4,7 +4,7 @@ Package quality
 
 `pythonpackages.com`_ evaluates the quality of a package based on criteria like description length
 (i.e. too short?) and distribution formats uploaded (i.e. egg but no sdist?).
-If your package meets the acceptable criteria you should see:
+If your package meets the "acceptable" criteria you should see:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/basic-features/package-quality2.png
    :class: thumbnail

@@ -19,8 +19,6 @@ In addition to its basic features, ``pythonpackages.com`` provides a set of shar
    plone-wsgi
    wordpress
 
-.. include:: ../disqus.html
-
 .. _`pythonpackages.com`: http://pythonpackages.com
 
 .. _`Buildout`: http://buildout.org

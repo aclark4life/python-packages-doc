@@ -105,8 +105,7 @@ You should see:
 Conclusion
 ~~~~~~~~~~
 
-This, along with http://diazo.org, should be all any web-savvy person (who does not know any
-Plone) needs to get started theming Plone.
+This, along with http://diazo.org should be all any web-savvy person (who does not know any Python or Plone) needs to get started theming Plone.
 
 .. include:: ../disqus.html
 

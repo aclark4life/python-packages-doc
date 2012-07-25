@@ -19,3 +19,8 @@ Q: How does pythonpackages.com differ from Bitbucket, GitHub, etc?
 Q: How do you make money?
 -------------------------
 **A:** Developers are encouraged to use the free plan which includes a single "package slot" to evaluate the service. If the service provides significant value, they are encouraged to purchase a paid plan which includes some number of paid slots, depending on the plan. Additionally, paid plans allow access to some number of GitHub organization repositories, depending on the plan.
+
+Q: Is pythonpackages.com open source?
+-------------------------------------
+
+**A:** The web application that powers pythonpackages.com is not open source, however it uses open source software where and when appropriate, and permissible by license, in order to facilitate its operation. Further, pythonpackages.com has a large committment to open source software in general, and strives to contribute as much as possible to the open source community. All of pythonpackages.com's open source offerings are made available to the general public here: https://github.com/pythonpackages.

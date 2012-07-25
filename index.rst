@@ -6,9 +6,7 @@ pythonpackages.com helps Python programmers package and release their software w
 .. toctree::
    :maxdepth: 2
 
-   introduction
-   basic-features/index
-   hosted-configs/index
-   create-package
+   tos
+   privacy
 
 .. _`pythonpackages.com`: http://pythonpackages.com

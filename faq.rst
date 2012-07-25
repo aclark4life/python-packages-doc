@@ -24,3 +24,13 @@ Q: Is pythonpackages.com open source?
 -------------------------------------
 
 **A:** The web application that powers pythonpackages.com is not open source, however it uses open source software where and when applicable, and permissible by license, in order to facilitate its operation. Furthermore, pythonpackages.com has a large committment to the open source software community in general, and strives to contribute as much as possible. All of pythonpackages.com's open source offerings are made available here: https://github.com/pythonpackages.
+
+Q: What does pythonpackages.com do for me that I can't do myself?
+-----------------------------------------------------------------
+
+**A:** In order to publish software Python developers are required to know a tremendous amount of information about the available packaging framework(s) e.g. distutils, setuptools, distribute, etc. Many Python programmers simply do not know or care to know about Python packaging. pythonpackages.com provides services to help decrease the amount of knowledge necessary to publish Python software.
+
+Cloud releases
+~~~~~~~~~~~~~~
+
+Additionally, pythonpackages.com enables so-called "cloud releases" in which publishing can be done entirely "in the cloud" i.e. without requiring a local development environment. One popular scenario: Developer "Mary" is the author of "Mary's Awesome App". Mary develops her open source application on GitHub, where she can easily collaborate with other like-minded developers. One day Mary is on vacation, but still checking her email, and she receives a "Pull request" from Josh, another open source developer on GitHub. Josh has informed Mary of a bug fix he has made to her software. Further, he indicates that the tests have passed on Travis CI and the request is ready to be merged and released. Mary is naturally skeptical at first. The "old" Mary would never have considered pushing out a release without testing it on her laptop! However, since her code has 100% test coverage, and Josh is a reliable community member, and she can ensure that the tests have passed, she happily presses the "Tag and release" button on pythonpackages.com to publish a new release of Mary's Awesome App to her users!

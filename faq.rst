@@ -23,4 +23,4 @@ Q: How do you make money?
 Q: Is pythonpackages.com open source?
 -------------------------------------
 
-**A:** The web application that powers pythonpackages.com is not open source, however it uses open source software where and when applicable, and permissible by license, in order to facilitate its operation. Furthermore, pythonpackages.com has a large committment to open source software in general, and strives to contribute as much as possible to the open source community. All of pythonpackages.com's open source offerings are made available here: https://github.com/pythonpackages.
+**A:** The web application that powers pythonpackages.com is not open source, however it uses open source software where and when applicable, and permissible by license, in order to facilitate its operation. Furthermore, pythonpackages.com has a large committment to the open source software community in general, and strives to contribute as much as possible. All of pythonpackages.com's open source offerings are made available here: https://github.com/pythonpackages.

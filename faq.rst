@@ -14,4 +14,4 @@ Q: How does pythonpackages.com differ from GitHub?
 
 - **A:** pythonpackages.com is not a software repository. We consume their (GitHub) API to provide services to Python programmers to help package and release their software.
 
-.. _`open a ticket`: http://bitbucket.org/pythonpackages/issues/new
+.. _`open a ticket`: http://bitbucket.org/pythonpackages/pythonpackages.com/issues/new

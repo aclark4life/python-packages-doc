@@ -36,6 +36,6 @@ Q: What does pythonpackages.com do for me that I can't do myself?
 
     Mary is naturally skeptical at first. The "old" Mary would never have considered performing a release without testing it on her laptop first! However, since her code has 100% test coverage and Josh is a reliable community member and she can ensure that the tests have passed, she happily agrees to perform the release.
 
-    Using the mobile-friendly user interface of pythonpackages.com with her iPhone, Mary presses the "Tag and release" button to publish a new release of Mary's Awesome App from GitHub to the Python Package Index. Mary goes back to her vacation. Josh goes back to fixing bugs. And users of Mary's Awesome App are enjoying the new release. The world is a better place.
+    Using the mobile-friendly user interface of pythonpackages.com with her iPhone, Mary presses the "Tag and release" button to publish a new release of Mary's Awesome App from GitHub to the Python Package Index. Mary goes back to her vacation. Josh goes back to fixing bugs. Users of Mary's Awesome App are enjoying the new release. The world is a better place.
 
 .. include:: disqus.html

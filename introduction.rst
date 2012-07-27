@@ -4,18 +4,20 @@ Introduction
 
 Welcome. pythonpackages.com helps Python programmers package and release their software with just a few clicks. To get started, please follow the steps below:
 
-Get access
-----------
+Access
+------
 
-- Sign up for the beta, if you haven't already: http://pythonpackages.com/signup.
+- Sign up for the beta (if you haven't already): http://pythonpackages.com/signup.
 - Sign in to pythonpackages.com with your GitHub account.
-- You should see:
+- View something similar to:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction1.png
   :class: thumbnail
 
-Add package slot
-----------------
+- You are now using the free plan.
+
+Package slot
+------------
 
 - The free plan provides access to a single package slot, which you may use to select any repository from your personal GitHub account. (You may select/unselect a single repository an  unlimited number of times. However, if you use the service regularly to manage more than a single package and/or you want to manage an Organization's repository, please consider purchasing one of the `paid plans`_.)
 
@@ -44,7 +46,7 @@ Test release
 Release
 -------
 
-Once you feel comfortable, please release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. You may also want to :ref:`create-packages`.
+Once you feel comfortable, release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. (You can also :ref:`create-packages`.)
 
 Report bugs
 -----------

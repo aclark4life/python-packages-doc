@@ -2,7 +2,7 @@
 Frequently Asked Questions
 ==========================
 
-If your quesiton is not answered here, please `open a ticket`_.
+If your question is not answered here, please `open a ticket`_.
 
 Q: How does pythonpackages.com differ from the Python Package Index (PyPI)?
 ---------------------------------------------------------------------------

@@ -9,7 +9,7 @@ Access
 
 - Sign up for the beta (if you haven't already): http://pythonpackages.com/signup.
 - Sign in to pythonpackages.com with your GitHub account.
-- View something similar to:
+- View your dashboard:
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction1.png
   :class: thumbnail

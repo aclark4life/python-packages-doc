@@ -28,7 +28,7 @@ Q: Is pythonpackages.com open source?
 Q: What does pythonpackages.com do for me that I can't do myself?
 -----------------------------------------------------------------
 
-**A:** In order to publish software, Python developers are required to know a tremendous amount of information about the available packaging framework(s) e.g. distutils, setuptools, distribute, etc. Many Python programmers simply do not know, or care to know, about Python packaging. pythonpackages.com provides services to help decrease the amount of knowledge necessary to publish Python software. Additionally, pythonpackages.com enables so-called "cloud releases" in which publishing can be done entirely "in the cloud" i.e. without requiring a local development environment. One popular scenario::
+**A:** In order to publish software, Python developers are required to know a tremendous amount of information about the available packaging framework(s) e.g. distutils, setuptools, distribute, etc. Many Python programmers simply do not know, or care to know, about the details of Python packaging. pythonpackages.com provides services to help decrease the amount of knowledge necessary to publish Python software. Additionally, pythonpackages.com enables so-called "cloud releases" in which publishing can be done entirely "in the cloud" i.e. without requiring a local development environment. One popular scenario::
 
     Developer "Mary" is the author of "Mary's Awesome App". Mary develops her application on GitHub, where she can easily collaborate with other like-minded developers.
 

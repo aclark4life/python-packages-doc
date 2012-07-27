@@ -38,11 +38,21 @@ Q: What does pythonpackages.com do for me that I can't do myself?
 
     Using the mobile-friendly user interface of pythonpackages.com with her iPhone, Mary presses the "Tag and release" button to publish a new release of Mary's Awesome App from GitHub to the Python Package Index. Mary goes back to her vacation. Josh goes back to fixing bugs. Users of Mary's Awesome App are enjoying the new release. The world is a better place.
 
-.. include:: disqus.html
-
 Q: Are there any videos?
 ------------------------
 
 **A:** Yes. A `demo video`_ for the alpha release was created for PyCon 2012. While the user interface has improved since then, the video demonstrates the basic concept of cloning a repository from GitHub and publishing it to the Python Package Index "in the cloud".
 
 .. _`demo video`: http://www.youtube.com/watch?v=bDJJATpF3mE&feature=plcp
+
+Q: What is a brown bag release?
+-------------------------------
+
+**A:** A brown-bag version is a release that is badly broken and cannot be used by some of all of the end users [1]_
+
+.. rubric:: Footnotes
+
+.. [1] http://guide.python-distribute.org/specification.html#pre-releases
+
+.. include:: disqus.html
+

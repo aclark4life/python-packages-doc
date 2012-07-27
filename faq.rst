@@ -48,7 +48,7 @@ Q: Are there any videos?
 Q: What is a brown bag release?
 -------------------------------
 
-**A:** A brown-bag version is a release that is badly broken and cannot be used by some of all of the end users [1]_
+**A:** A brown-bag release is a release that is badly broken and cannot be used by some of all of the end users [1]_
 
 .. [1] http://guide.python-distribute.org/specification.html#pre-releases
 

@@ -43,10 +43,14 @@ Test release
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction4.png
   :class: thumbnail
 
+At this point, you can perform additional testing with the test index e.g.::
+
+    $ pip install PACKAGE -i http://index.pythonpackages.com
+
 Release
 -------
 
-Once you feel comfortable, release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. (You can also :ref:`create-packages`.)
+Once you are confident everything works as expected, release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. (You can also :ref:`create-packages`.)
 
 Report bugs
 -----------

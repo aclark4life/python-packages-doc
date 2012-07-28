@@ -55,7 +55,7 @@ Once you are confident everything works as expected, release your package to PyP
 Report bugs
 -----------
 
-Please report any issues you may encounter here:
+Please report any issues you might encounter here:
 
 - https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 

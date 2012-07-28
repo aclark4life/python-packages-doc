@@ -35,14 +35,19 @@ You can think of pythonpackages.com as "PasteScript through the web". To use it,
 Results
 -------
 
-Now wait a few seconds for the results.
+Now wait (a few seconds) for the results.
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/create-package2.png
    :class: thumbnail
 
-These results indicate your packages has been created on GitHub. You can verify this by signing in to GitHub to check for the new package.
+These results indicate your package has been created on GitHub. You can verify this by signing in to GitHub to check for the new package.
 
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/create-package3.png
    :class: thumbnail
+
+Test and release
+----------------
+
+You can now slot, test, and release your new package as described in the :ref:`introduction`.
 
 .. _`prompted for your GitHub credentials`: http://docs.pythonpackages.com/en/latest/security.html

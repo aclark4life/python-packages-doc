@@ -43,7 +43,7 @@ Test release
 .. image:: https://github.com/pythonpackages/pythonpackages-docs/raw/master/introduction4.png
   :class: thumbnail
 
-At this point, you can perform additional testing with the test index e.g.::
+At this point, you can perform additional testing using the test index e.g.::
 
     $ pip install PACKAGE -i http://index.pythonpackages.com
 
@@ -55,7 +55,7 @@ Once you are confident everything works as expected, release your package to PyP
 Report bugs
 -----------
 
-Thank you for testing the beta release features. Please report any issues you may encounter here:
+Please report any issues you may encounter here:
 
 - https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 

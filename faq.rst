@@ -52,11 +52,22 @@ Q: What is a brown bag release?
 
 .. [1] http://guide.python-distribute.org/specification.html#pre-releases
 
-.. include:: disqus.html
-
-Q: Is there a roadmap?
+Q: What is the roadmap?
 ----------------------
 
 **A:** The roadmap for the beta period (Q3 2012) is as follows:
 
-* **Add AJAX and asynchronous task queues**. Currently all tasks are executed synchronously. This is a problem for large packages or packages with a lot of dependencies and/or tests because web requests will timeout before the tasks complete. It's also bad from a user interface perspective. So AJAX views and asynchronous tasks queues will be added to address these problems.
+- **Add AJAX and asynchronous task queues**. Currently all tasks are executed synchronously. This is a problem for large packages or packages with a lot of dependencies and/or tests because web requests will timeout before the tasks complete. It's also bad from a user interface perspective. So AJAX views and asynchronous tasks queues will be added to address these problems.
+
+Q: Why are you executing untrusted code in setup.py?
+----------------------------------------------------
+
+**A:** We are relying on Heroku platform security to mitigate the associated risks:
+
+- http://policy.heroku.com/security
+
+In particular, dyno isolation:
+
+- https://devcenter.heroku.com/articles/dynos
+
+.. include:: disqus.html

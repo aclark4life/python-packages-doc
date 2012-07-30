@@ -71,6 +71,13 @@ In particular, dyno isolation:
 
 - https://devcenter.heroku.com/articles/dynos
 
+How do package authors verify the integrity of packages built "through the web"?
+--------------------------------------------------------------------------------
+
+The same way they do with packages built "the old way", via `md5 hashes`.
+
 .. include:: disqus.html
 
 .. [1] http://guide.python-distribute.org/specification.html#pre-releases
+
+.. _`md5 hashes`: http://stackoverflow.com/questions/4283639/check-files-for-equality

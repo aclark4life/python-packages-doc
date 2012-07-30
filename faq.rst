@@ -74,7 +74,7 @@ In particular, dyno isolation:
 How do package authors verify the integrity of packages built "through the web"?
 --------------------------------------------------------------------------------
 
-The same way they do with packages built "the old way", via `md5 hashes`.
+The same way they do with packages built "the old way", via `md5 hashes`_.
 
 .. include:: disqus.html
 

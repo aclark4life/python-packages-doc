@@ -68,6 +68,6 @@ In particular, dyno isolation:
 
 - https://devcenter.heroku.com/articles/dynos
 
-.. [1] http://guide.python-distribute.org/specification.html#pre-releases
-
 .. include:: disqus.html
+
+.. [1] http://guide.python-distribute.org/specification.html#pre-releases

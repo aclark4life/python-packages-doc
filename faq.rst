@@ -60,7 +60,7 @@ The roadmap for the beta period (Q3 2012) is as follows:
 Why are you executing untrusted code in setup.py?
 ----------------------------------------------------
 
-We are relying on Heroku platform security to mitigate the associated risks:
+We are relying on Heroku platform security to mitigate any associated risks:
 
 - http://policy.heroku.com/security
 

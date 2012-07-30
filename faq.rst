@@ -50,8 +50,6 @@ What is a brown bag release?
 
 A brown-bag release is a release that is badly broken and cannot be used by some of all of the end users [1]_
 
-.. [1] http://guide.python-distribute.org/specification.html#pre-releases
-
 Is there a roadmap? If so, what is it?
 -----------------------------------------
 
@@ -69,5 +67,7 @@ We are relying on Heroku platform security to mitigate the associated risks:
 In particular, dyno isolation:
 
 - https://devcenter.heroku.com/articles/dynos
+
+.. [1] http://guide.python-distribute.org/specification.html#pre-releases
 
 .. include:: disqus.html

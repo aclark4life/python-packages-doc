@@ -23,10 +23,17 @@ Developers are encouraged to use the free plan which includes a single "package 
 Is pythonpackages.com open source?
 ----------------------------------
 
-The web application that powers pythonpackages.com is not open source, however it uses open source software where and when applicable, and permissible by license, in order to facilitate its operation. Furthermore, pythonpackages.com has a large committment to the open source software community in general, and strives to contribute as much as possible. All of pythonpackages.com's open source offerings are made available here: https://github.com/pythonpackages.
+The web application that powers pythonpackages.com is not open source, however it uses open source software where and when applicable, and permissible by license, in order to facilitate its operation. Furthermore, pythonpackages.com has a large committment to the open source software community in general, and strives to contribute as much as possible. All of pythonpackages.com's open source offerings are made available here: https://github.com/pythonpackages. As for why it isn't open source, please see :ref:`why-not-open-source`.
+
+.. why-not-open-source:
+
+Why isn't pythonpackages.com open source?
+-----------------------------------------
+
+In order to create a "minimum viable product", we chose to start closed source and open source later as needed or possible (vs. the opposite). And it's logistically much harder to engineer a commercial web application when the core web application is open source.
 
 What does pythonpackages.com do for me that I can't do myself?
------------------------------------------------------------------
+--------------------------------------------------------------
 
 In order to publish software, Python developers are required to know a tremendous amount of information about the available packaging framework(s) e.g. distutils, setuptools, distribute, etc. Many Python programmers simply do not know, or care to know, about the details of Python packaging. pythonpackages.com provides services to help decrease the amount of knowledge necessary to publish Python software. Additionally, pythonpackages.com enables so-called "cloud releases" in which publishing can be done entirely "in the cloud" i.e. without requiring a local development environment. One popular scenario::
 

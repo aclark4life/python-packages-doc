@@ -23,7 +23,7 @@ Developers are encouraged to use the free plan which includes a single "package 
 Is pythonpackages.com open source?
 ----------------------------------
 
-The web application that powers pythonpackages.com is not open source, however it uses open source software where and when applicable, and permissible by license, in order to facilitate its operation. Furthermore, pythonpackages.com has a large committment to the open source software community in general, and strives to contribute as much as possible. All of pythonpackages.com's open source offerings are made available here: https://github.com/pythonpackages. As for why it isn't open source, please see :ref:`why-not-open-source`.
+The web application that powers pythonpackages.com is not open source, however it uses open source software where and when applicable, and permissible by license, in order to facilitate its operation. Furthermore, pythonpackages.com has a large committment to the open source software community in general, and strives to contribute as much as possible. All of pythonpackages.com's open source offerings are made available here: https://github.com/pythonpackages. And if you are curious, please see :ref:`why-not-open-source`.
 
 .. _why-not-open-source:
 

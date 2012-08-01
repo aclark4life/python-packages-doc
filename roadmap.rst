@@ -1,6 +1,6 @@
-.. roadmap:
-
 The roadmap for the beta period (Q3 2012) is as follows:
+
+.. roadmap:
 
 Add AJAX and asynchronous task queues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

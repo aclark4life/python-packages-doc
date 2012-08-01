@@ -30,7 +30,7 @@ The web application that powers pythonpackages.com is not open source, however i
 Why isn't pythonpackages.com open source?
 -----------------------------------------
 
-In order to create a "minimum viable product", we chose to start closed source and open source later as needed or possible (vs. the opposite). And it's logistically much harder to engineer a commercial web application when the core web application is open source.
+In order to create a "minimum viable product", we chose to start closed source and open source later, as needed or possible (vs. the opposite). And it's logistically much harder to engineer a commercial service when the core web application is open source.
 
 What does pythonpackages.com do for me that I can't do myself?
 --------------------------------------------------------------

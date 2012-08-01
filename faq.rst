@@ -51,14 +51,9 @@ What is a brown bag release?
 A brown-bag release is a release that is badly broken and cannot be used by some of all of the end users [1]_
 
 Is there a roadmap? If so, what is it?
------------------------------------------
+--------------------------------------
 
-The roadmap for the beta period (Q3 2012) is as follows:
-
-Add AJAX and asynchronous task queues
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Currently all tasks are executed synchronously. This is a problem for large packages or packages with a lot of dependencies and/or tests because web requests will timeout before the tasks complete. It's also bad from a user interface perspective, so AJAX views and asynchronous tasks queues will be added to address these problems.
+Yes. Please see the :ref:`roadmap`.
 
 Why are you executing untrusted code in setup.py?
 ----------------------------------------------------

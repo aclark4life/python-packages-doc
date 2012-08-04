@@ -46,14 +46,14 @@ In order to publish software, Python developers are required to know a tremendou
     Using the mobile-friendly user interface of pythonpackages.com with her iPhone, Mary presses the "Tag and release" button to publish a new release of Mary's Awesome App from GitHub to the Python Package Index. Mary goes back to her vacation. Josh goes back to fixing bugs. Users of Mary's Awesome App are enjoying the new release. The world is a better place.
 
 Are there any videos?
-------------------------
+---------------------
 
 Yes. A `demo video`_ for the alpha release was created for PyCon 2012. While the user interface has improved since then, the video demonstrates the basic concept of cloning a repository from GitHub and publishing it to the Python Package Index "in the cloud".
 
 .. _`demo video`: http://www.youtube.com/watch?v=bDJJATpF3mE&feature=plcp
 
 What is a brown bag release?
--------------------------------
+----------------------------
 
 A brown-bag release is a release that is badly broken and cannot be used by some of all of the end users [1]_
 
@@ -63,7 +63,7 @@ Is there a roadmap? If so, what is it?
 Yes. Please see the :ref:`roadmap`.
 
 Why are you executing untrusted code in setup.py?
-----------------------------------------------------
+-------------------------------------------------
 
 We are relying on Heroku platform security to mitigate any associated risks:
 
@@ -73,6 +73,13 @@ In particular, dyno isolation:
 
 - https://devcenter.heroku.com/articles/dynos
 
+Why not use setuptools-git instead of MANIFEST.in to specify additional files to distribute?
+--------------------------------------------------------------------------------------------
+
+Because the files used to create the distribution are not cloned by git, they are copied to pythonpackages.com via GitHub APIv3 [2]_
+
 .. include:: disqus.html
 
 .. [1] http://guide.python-distribute.org/specification.html#pre-releases
+
+.. [2] http://developer.github.com/v3/git/trees

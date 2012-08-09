@@ -11,10 +11,10 @@ To use the service, please follow the instructions below.
 Instructions
 ------------
 
-- Sign up for the pythonpackages.com beta here: http://pythonpackages.com/signup.
+- Sign up for the pythonpackages.com beta: http://pythonpackages.com/signup.
 
 - Follow the :ref:`introduction` instructions.
 
-- On the Python Package Index, authorize pythonpackages.com to act on your behalf as explained here: http://blog.aclark.net/ (pythonpackages.com -> Dashboard -> Manage accounts -> PyPI -> Authorize).
+- On the Python Package Index, authorize pythonpackages.com to act on your behalf as explained here: http://blog.aclark.net/2012/08/07/pythonpackages-com-using-pypis-oauth1-support-to-register-and-upload-packages/ (``pythonpackages.com -> Dashboard -> Manage accounts -> PyPI -> Authorize``).
 
-- On GitHub, configure the PythonPackage service to be ``Active`` on any repository that contains a Python package you would like to release (Repo -> Admin -> Service Hooks -> PythonPackages -> [*] Active).
+- On GitHub, configure the PythonPackage service to be ``Active`` on any repository that contains a Python package you would like to release (``Repo -> Admin -> Service Hooks -> PythonPackages -> [*] Active``).

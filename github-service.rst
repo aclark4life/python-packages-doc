@@ -21,7 +21,7 @@ Instructions
 
 - On GitHub, configure the ``PythonPackages`` service to be ``Active`` on any repository that contains a Python package to release (``Repo -> Admin -> Service Hooks -> PythonPackages -> [*] Active``).
 
-Now you can git push to release! If you have any trouble, please _`open a ticket`.
+Now you can git push to release! If you have any trouble, please `open a ticket`_.
 
 .. _`open a ticket`: https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 

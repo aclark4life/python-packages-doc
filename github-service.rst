@@ -4,7 +4,7 @@ PythonPackages
 
 *GitHub Service*
 
-This service allows you to release Python packages from GitHub to the `Python Package Index`_, by pushing a commit message that begins with ``Release`` e.g.::
+This service allows you to release Python packages from GitHub to the `Python Package Index`_, simply by pushing a commit message that begins with ``Release`` e.g.::
 
     $ git commit -a -m "Release 0.0.1" ; git push
 

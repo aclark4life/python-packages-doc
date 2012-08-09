@@ -1,6 +1,8 @@
 
-GitHub Service
+PythonPackages
 ==============
+
+*GitHub Service Hook*
 
 This service allows you to release `Python packages`_ from GitHub to the Python Package Index, by pushing a commit message that begins with ``Release`` e.g.::
 

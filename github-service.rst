@@ -2,7 +2,7 @@
 GitHub Service
 ==============
 
-This service allows you to release Python packages from GitHub to the Python Package Index by pushing a commit message that begins with ``Release`` e.g.::
+This service allows you to release Python packages from GitHub to the Python Package Index, by pushing a commit message that begins with ``Release`` e.g.::
 
     $ git commit -a -m "Release 0.0.1" ; git push
 
@@ -15,5 +15,6 @@ Instructions
 
 - Follow the :ref:`introduction` instructions.
 
-- On GitHub, configure the PythonPackage service to be ``Active`` on any repository that contains a Python package you would like to release (Repo -> Admin -> Service Hooks -> PythonPackages -> [*] Active).
+- On the Python Package Index, authorize pythonpackages.com to act on your behalf as explained here: http://blog.aclark.net/ (pythonpackages.com -> Dashboard -> Manage accounts -> PyPI -> Authorize).
 
+- On GitHub, configure the PythonPackage service to be ``Active`` on any repository that contains a Python package you would like to release (Repo -> Admin -> Service Hooks -> PythonPackages -> [*] Active).

@@ -48,9 +48,11 @@ In order to publish software, Python developers are required to know a tremendou
 Are there any videos?
 ---------------------
 
-Yes. A `demo video`_ for the alpha release was created for PyCon 2012. While the user interface has improved since then, the video demonstrates the basic concept of cloning a repository from GitHub and publishing it to the Python Package Index "in the cloud".
+Yes. A `demo video`_ for the alpha release was created for PyCon 2012. While the user interface has improved since then, the video demonstrates the basic concept of cloning a repository from GitHub and publishing it to the Python Package Index "in the cloud". Since then, `demo two`_ and `demo three`_ have been produced. If you watch only one, watch `demo three`_.
 
 .. _`demo video`: http://www.youtube.com/watch?v=bDJJATpF3mE&feature=plcp
+.. _`demo two`: http://www.youtube.com/watch?v=v80cAfxo8hg
+.. _`demo three`: http://www.youtube.com/watch?v=VQlkCo2R3rA
 
 What is a brown bag release?
 ----------------------------

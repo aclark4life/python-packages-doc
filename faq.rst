@@ -58,7 +58,7 @@ A `demo video`_ for the alpha release was created for PyCon 2012. While the user
 Beta videos
 ~~~~~~~~~~~
 
-Since then, `demo two`_ and `demo three`_ have been produced. If you watch only one, please watch `demo three`_.
+Since then, `demo two`_ and `demo three`_ have been produced. If you watch only one of these, please watch `demo three`_.
 
 .. _`demo video`: http://www.youtube.com/watch?v=bDJJATpF3mE&feature=plcp
 .. _`demo two`: http://www.youtube.com/watch?v=VQlkCo2R3rA

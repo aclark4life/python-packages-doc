@@ -11,6 +11,6 @@ Enter your favorite package, and if its `metadata indicates Python 3 support`_, 
 
 .. _`pythonpackages.com`: http://pythonpackages.com
 
-.. _`metadata indicates Python 3 support`: https://pythonpackages.com/package/pyramid#classifiers
+.. _`metadata indicates Python 3 support`: http://pythonpackages.com/package/pyramid#classifiers
 
 .. include:: ../disqus.html

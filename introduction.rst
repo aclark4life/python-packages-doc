@@ -64,7 +64,7 @@ Please report any issues you might encounter here:
 
 .. _`open a ticket`: https://bitbucket.org/pythonpackages/pythonpackages.com/issues/new
 
-.. _`signed up for the beta`: https://pythonpackages.com/signup
+.. _`signed up for the beta`: http://pythonpackages.com/signup
 
 .. _`paid plans`: http://pythonpackages.com/plans
 

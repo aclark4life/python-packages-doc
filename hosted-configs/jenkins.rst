@@ -13,7 +13,7 @@ You are developing some Python software and you would like to begin automated, c
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/jenkins/1.464
+    extends = https://raw.github.com/pythonpackages/buildout-jenkins/master/1.464
 
 Then run::
 

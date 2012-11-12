@@ -13,7 +13,7 @@ You are a Python programmer and you want to take ``Plone`` for a spin::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/plone/4.2.x
+    extends = https://raw.github.com/pythonpackages/buildout-plone/master/4.3.x
 
 Then run::
 

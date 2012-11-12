@@ -14,7 +14,7 @@ Formerly "Zope 3 application server". You have heard that the Zope 3 application
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/bluebream/1.0
+    extends = https://raw.github.com/pythonpackages/buildout-bluebream/master/1.0
 
 Then run::
 

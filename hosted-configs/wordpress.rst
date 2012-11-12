@@ -13,7 +13,7 @@ The award-winning, PHP-based blogging software, Wordpress. You want to download 
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/wordpress/3.3.x
+    extends = https://raw.github.com/pythonpackages/buildout-wordpress/master/3.4.x
 
 Then run::
 

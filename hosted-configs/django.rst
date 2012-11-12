@@ -13,7 +13,7 @@ In this example, we configure a "hello world" application for your Django-ing pl
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/django/1.4.x
+    extends = https://raw.github.com/pythonpackages/buildout-django/master/1.4.x
 
 Then run::
 

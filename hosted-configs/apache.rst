@@ -13,7 +13,7 @@ You want to understand how to set up your WSGI application with mod_wsgi. You de
 Then edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/apache-modwsgi/2.2.x
+    extends = https://raw.github.com/pythonpackages/buildout-apache-modwsgi/master/2.2.x
 
 Then run::
 

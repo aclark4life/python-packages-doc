@@ -13,7 +13,7 @@ E-commerce platform for Plone: getpaid. You want to try ``getpaid`` for Plone::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/plone-getpaid/4.2.x
+    extends = https://raw.github.com/pythonpackages/buildout-plone-getpaid/master/4.2.x
 
 Then run::
 

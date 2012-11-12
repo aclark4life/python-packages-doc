@@ -13,7 +13,7 @@ Easily import content into the award-winning, Python-based, Plone CMS. You want 
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/plone/4.1.x
+    extends = https://raw.github.com/pythonpackages/buildout-plone/master/4.3.x
     parts += funnelweb
 
     [funnelweb]

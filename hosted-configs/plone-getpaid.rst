@@ -13,7 +13,7 @@ E-commerce platform for Plone: getpaid. You want to try ``getpaid`` for Plone::
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = https://raw.github.com/pythonpackages/buildout-plone-getpaid/master/4.2.x
+    extends = https://raw.github.com/pythonpackages/buildout-plone-getpaid/master/4.3.x
 
 Then run::
 
@@ -45,5 +45,5 @@ Click on "Create a new plone site" and should see:
 
 .. include:: ../disqus.html
 
-.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.3.x
 

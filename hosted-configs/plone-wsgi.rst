@@ -13,7 +13,7 @@ You understand deploying Plone via WSGI is not yet fully supported (or functiona
 Edit the contents of **buildout.cfg** to contain *only*::
 
     [buildout]
-    extends = https://raw.github.com/pythonpackages/buildout-plone/master/4.2.x-wsgi
+    extends = https://raw.github.com/pythonpackages/buildout-plone/master/4.3.x-wsgi
 
 Then run::
 
@@ -39,4 +39,4 @@ You should see:
 
 .. include:: ../disqus.html
 
-.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.3.x-wsgi

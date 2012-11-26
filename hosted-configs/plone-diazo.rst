@@ -109,4 +109,4 @@ This, along with http://diazo.org should be all any web-savvy person (who does n
 
 .. include:: ../disqus.html
 
-.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.2.x
+.. _`View config on GitHub`: https://github.com/pythonpackages/buildout-plone/blob/master/4.3.x

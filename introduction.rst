@@ -51,7 +51,7 @@ At this point, you can perform additional testing using the test index e.g.::
 Release
 -------
 
-Once you are confident everything works as expected, release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. (You can also :ref:`create-packages`.)
+Once you are confident everything works as expected, release your package to PyPI by pressing the "Release" button. This will create a release tag for you on GitHub based on your last commit. (You can also refer `create-packages <https://github.com/pythonpackages/documentation/blob/master/create-package.rst/>`_.)
 
 Report bugs
 -----------

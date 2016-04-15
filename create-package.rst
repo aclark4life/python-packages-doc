@@ -48,6 +48,6 @@ These results indicate your package has been created on GitHub. You can verify t
 Test and release
 ----------------
 
-You can now test and release your new package, as described in the :ref:`introduction`.
+You can now test and release your new package, as described in the `introduction <https://github.com/pythonpackages/documentation/blob/master/introduction.rst/>`_.
 
 .. _`prompted for your GitHub credentials`: http://docs.pythonpackages.com/en/latest/security.html
